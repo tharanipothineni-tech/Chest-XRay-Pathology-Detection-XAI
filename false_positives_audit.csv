@@ -1,0 +1,1957 @@
+row_idx,patient_id,true_labels,false_positive_class,class_idx,pred_prob,threshold,margin_above_thresh
+287,80,Cardiomegaly|Effusion,Hernia,7,0.9962,0.201,0.7952
+394,70,Fibrosis,Hernia,7,0.988,0.201,0.787
+375,69,Emphysema,Hernia,7,0.9453,0.201,0.7443
+323,70,Atelectasis|Consolidation,Hernia,7,0.9262,0.201,0.7252
+171,57,Cardiomegaly,Hernia,7,0.9222,0.201,0.7212
+202,57,Cardiomegaly,Hernia,7,0.9105,0.201,0.7095
+156,70,Atelectasis|Cardiomegaly|Effusion|Fibrosis|Infiltration,Hernia,7,0.9097,0.201,0.7087
+200,57,Effusion,Hernia,7,0.8603,0.201,0.6593
+201,37,Cardiomegaly|Infiltration,Edema,3,0.9536,0.3164,0.6372
+83,70,No Finding,Hernia,7,0.8344,0.201,0.6334
+172,69,Pneumonia,Hernia,7,0.8328,0.201,0.6318
+276,46,Infiltration|Nodule,Edema,3,0.94,0.3164,0.6236
+283,46,Effusion|Fibrosis|Pneumothorax,Hernia,7,0.8145,0.201,0.6135
+305,69,Mass,Hernia,7,0.7972,0.201,0.5962
+381,57,Edema|Infiltration|Nodule,Pneumonia,12,0.9279,0.3327,0.5952
+421,14,Infiltration|Pneumonia,Edema,3,0.9078,0.3164,0.5914
+225,57,Edema,Pneumonia,12,0.9197,0.3327,0.587
+177,70,Pneumothorax,Emphysema,5,0.9649,0.3938,0.5711
+69,41,Atelectasis|Effusion,Edema,3,0.88,0.3164,0.5636
+424,17,Infiltration|Pneumonia,Edema,3,0.8689,0.3164,0.5525
+63,35,Infiltration,Edema,3,0.8642,0.3164,0.5478
+279,46,Effusion|Pneumothorax,Hernia,7,0.7474,0.201,0.5464
+196,28,Atelectasis,Edema,3,0.8618,0.3164,0.5454
+148,41,Effusion|Mass,Hernia,7,0.7311,0.201,0.5301
+226,30,Atelectasis|Mass,Cardiomegaly,1,0.9749,0.4452,0.5296
+305,69,Mass,Emphysema,5,0.9221,0.3938,0.5283
+23,6,No Finding,Hernia,7,0.7284,0.201,0.5274
+284,69,Atelectasis|Pneumothorax,Emphysema,5,0.9206,0.3938,0.5269
+232,57,Infiltration|Nodule,Edema,3,0.8416,0.3164,0.5252
+1,70,Emphysema|Mass,Pleural_Thickening,11,0.9011,0.3774,0.5237
+400,28,Edema|Effusion,Pneumonia,12,0.8504,0.3327,0.5177
+285,35,Consolidation|Infiltration,Cardiomegaly,1,0.9616,0.4452,0.5164
+349,14,Consolidation|Infiltration,Edema,3,0.8263,0.3164,0.5099
+60,35,Atelectasis|Infiltration,Hernia,7,0.7104,0.201,0.5094
+423,46,Edema|Infiltration|Pneumonia,Emphysema,5,0.9011,0.3938,0.5073
+145,69,Infiltration,Hernia,7,0.7075,0.201,0.5065
+359,28,Edema,Cardiomegaly,1,0.9501,0.4452,0.5049
+137,17,No Finding,Cardiomegaly,1,0.9489,0.4452,0.5037
+225,57,Edema,Infiltration,8,0.8832,0.3815,0.5017
+210,70,Atelectasis|Pneumothorax,Emphysema,5,0.8946,0.3938,0.5008
+200,57,Effusion,Emphysema,5,0.8929,0.3938,0.4991
+256,57,Pneumothorax,Emphysema,5,0.8902,0.3938,0.4964
+54,46,Infiltration,Edema,3,0.8121,0.3164,0.4956
+286,17,Cardiomegaly|Edema|Infiltration,Pneumonia,12,0.8272,0.3327,0.4946
+221,46,Atelectasis,Edema,3,0.8089,0.3164,0.4925
+271,69,Consolidation|Effusion|Infiltration,Edema,3,0.8077,0.3164,0.4913
+107,70,No Finding,Hernia,7,0.6914,0.201,0.4904
+33,57,No Finding,Fibrosis,6,0.9131,0.4242,0.4889
+257,57,Pneumothorax,Hernia,7,0.6858,0.201,0.4848
+325,28,Pneumothorax,Emphysema,5,0.8764,0.3938,0.4826
+253,46,Edema|Infiltration,Cardiomegaly,1,0.9267,0.4452,0.4815
+270,28,Fibrosis,Nodule,10,0.8642,0.3841,0.4801
+259,14,Consolidation|Infiltration,Edema,3,0.7912,0.3164,0.4748
+168,69,Effusion|Nodule,Edema,3,0.787,0.3164,0.4706
+173,46,Effusion,Edema,3,0.7867,0.3164,0.4703
+355,28,Cardiomegaly|Effusion,Pleural_Thickening,11,0.8449,0.3774,0.4675
+120,41,Infiltration|Nodule,Edema,3,0.7822,0.3164,0.4657
+37,30,No Finding,Edema,3,0.7813,0.3164,0.4649
+2,28,Atelectasis,Edema,3,0.7749,0.3164,0.4585
+37,30,No Finding,Infiltration,8,0.8345,0.3815,0.453
+124,57,Atelectasis,Cardiomegaly,1,0.8956,0.4452,0.4504
+384,30,Cardiomegaly,Edema,3,0.765,0.3164,0.4486
+115,28,No Finding,Cardiomegaly,1,0.8912,0.4452,0.446
+303,57,Fibrosis,Hernia,7,0.6454,0.201,0.4444
+113,46,No Finding,Nodule,10,0.8276,0.3841,0.4436
+243,69,Atelectasis|Consolidation|Mass,Hernia,7,0.6445,0.201,0.4435
+152,17,Atelectasis|Consolidation|Effusion,Edema,3,0.7578,0.3164,0.4414
+426,35,Fibrosis,Nodule,10,0.8231,0.3841,0.4391
+306,41,Edema|Effusion|Infiltration,Pneumonia,12,0.7688,0.3327,0.4361
+400,28,Edema|Effusion,Infiltration,8,0.8176,0.3815,0.4361
+53,41,Infiltration,Hernia,7,0.6371,0.201,0.4361
+248,41,Nodule,Pneumonia,12,0.7684,0.3327,0.4357
+134,41,No Finding,Nodule,10,0.8172,0.3841,0.4332
+82,37,No Finding,Cardiomegaly,1,0.8783,0.4452,0.4331
+324,30,Cardiomegaly,Edema,3,0.7493,0.3164,0.4329
+115,28,No Finding,Effusion,4,0.9316,0.4991,0.4325
+373,17,Effusion|Infiltration|Pleural_Thickening,Cardiomegaly,1,0.8765,0.4452,0.4313
+45,69,No Finding,Mass,9,0.8382,0.4103,0.4279
+328,30,Edema|Infiltration,Nodule,10,0.8108,0.3841,0.4268
+432,80,Atelectasis|Effusion|Pneumonia,Hernia,7,0.6277,0.201,0.4267
+98,69,Effusion,Edema,3,0.7399,0.3164,0.4235
+401,35,Emphysema,Edema,3,0.7397,0.3164,0.4233
+282,57,Pneumothorax,Emphysema,5,0.8154,0.3938,0.4216
+294,70,Consolidation|Effusion|Infiltration|Nodule,Mass,9,0.8311,0.4103,0.4208
+336,17,Consolidation,Cardiomegaly,1,0.866,0.4452,0.4207
+250,41,Infiltration|Nodule,Fibrosis,6,0.8442,0.4242,0.4201
+363,46,Edema,Pneumonia,12,0.7505,0.3327,0.4178
+334,46,Cardiomegaly|Infiltration,Edema,3,0.7276,0.3164,0.4112
+321,41,Pleural_Thickening,Mass,9,0.8215,0.4103,0.4111
+134,41,No Finding,Pneumonia,12,0.7425,0.3327,0.4098
+349,14,Consolidation|Infiltration,Pneumonia,12,0.7415,0.3327,0.4088
+370,28,Atelectasis|Edema,Pneumonia,12,0.7406,0.3327,0.4079
+271,69,Consolidation|Effusion|Infiltration,Pneumonia,12,0.7404,0.3327,0.4077
+158,80,Effusion,Fibrosis,6,0.8297,0.4242,0.4055
+237,57,Emphysema|Infiltration|Mass,Pleural_Thickening,11,0.7818,0.3774,0.4044
+201,37,Cardiomegaly|Infiltration,Pneumonia,12,0.7358,0.3327,0.4032
+75,46,No Finding,Pleural_Thickening,11,0.7803,0.3774,0.4029
+362,35,Cardiomegaly,Effusion,4,0.9004,0.4991,0.4013
+130,70,Effusion,Hernia,7,0.6021,0.201,0.4011
+113,46,No Finding,Fibrosis,6,0.8249,0.4242,0.4008
+343,70,Consolidation|Edema|Infiltration,Pneumonia,12,0.733,0.3327,0.4003
+108,46,No Finding,Mass,9,0.8106,0.4103,0.4003
+231,57,Consolidation,Edema,3,0.7164,0.3164,0.4
+248,41,Nodule,Fibrosis,6,0.8238,0.4242,0.3997
+395,46,Edema|Infiltration,Pneumonia,12,0.7316,0.3327,0.3989
+184,6,Infiltration,Edema,3,0.7141,0.3164,0.3977
+167,35,Effusion|Nodule|Pleural_Thickening,Fibrosis,6,0.8201,0.4242,0.396
+274,70,Effusion|Infiltration|Pneumothorax,Cardiomegaly,1,0.8386,0.4452,0.3933
+15,70,Infiltration|Nodule,Pneumonia,12,0.725,0.3327,0.3923
+270,28,Fibrosis,Infiltration,8,0.7735,0.3815,0.392
+368,37,Edema,Pneumonia,12,0.724,0.3327,0.3913
+261,28,Nodule,Cardiomegaly,1,0.8364,0.4452,0.3912
+134,41,No Finding,Fibrosis,6,0.815,0.4242,0.3909
+58,28,Atelectasis|Effusion|Emphysema,Cardiomegaly,1,0.8313,0.4452,0.3861
+289,35,Nodule,Edema,3,0.7025,0.3164,0.3861
+268,17,Atelectasis|Pneumothorax,Effusion,4,0.8849,0.4991,0.3858
+210,70,Atelectasis|Pneumothorax,Fibrosis,6,0.8087,0.4242,0.3845
+222,30,Pneumothorax,Emphysema,5,0.7759,0.3938,0.3821
+159,69,Effusion|Infiltration,Pneumonia,12,0.7147,0.3327,0.382
+177,70,Pneumothorax,Pleural_Thickening,11,0.7589,0.3774,0.3815
+379,30,Atelectasis|Consolidation|Pneumonia,Cardiomegaly,1,0.8258,0.4452,0.3806
+4,57,No Finding,Mass,9,0.7906,0.4103,0.3802
+113,46,No Finding,Pleural_Thickening,11,0.7556,0.3774,0.3782
+39,14,No Finding,Pneumonia,12,0.71,0.3327,0.3773
+383,28,Edema,Infiltration,8,0.7581,0.3815,0.3766
+140,69,No Finding,Hernia,7,0.5768,0.201,0.3758
+341,28,Cardiomegaly|Effusion|Infiltration|Nodule,Pneumonia,12,0.7083,0.3327,0.3756
+26,80,No Finding,Pneumonia,12,0.7066,0.3327,0.3739
+269,57,Mass,Nodule,10,0.7577,0.3841,0.3736
+236,28,Atelectasis|Emphysema,Edema,3,0.6892,0.3164,0.3728
+117,41,No Finding,Cardiomegaly,1,0.8179,0.4452,0.3727
+177,70,Pneumothorax,Hernia,7,0.5733,0.201,0.3723
+283,46,Effusion|Fibrosis|Pneumothorax,Emphysema,5,0.7646,0.3938,0.3708
+270,28,Fibrosis,Pneumonia,12,0.7031,0.3327,0.3704
+333,35,Effusion|Emphysema,Atelectasis,0,0.8624,0.4925,0.37
+190,35,Pneumothorax,Emphysema,5,0.7636,0.3938,0.3698
+383,28,Edema,Pneumonia,12,0.7016,0.3327,0.3689
+170,41,Fibrosis,Cardiomegaly,1,0.814,0.4452,0.3688
+166,57,Effusion|Pneumothorax,Edema,3,0.6852,0.3164,0.3688
+341,28,Cardiomegaly|Effusion|Infiltration|Nodule,Edema,3,0.6848,0.3164,0.3684
+429,57,Infiltration|Pneumonia,Nodule,10,0.7514,0.3841,0.3674
+344,35,Emphysema|Infiltration,Cardiomegaly,1,0.8111,0.4452,0.3659
+39,14,No Finding,Edema,3,0.6811,0.3164,0.3647
+240,80,Atelectasis|Consolidation|Effusion,Hernia,7,0.5657,0.201,0.3647
+221,46,Atelectasis,Pneumonia,12,0.6944,0.3327,0.3617
+98,69,Effusion,Mass,9,0.772,0.4103,0.3617
+247,41,Pneumothorax,Atelectasis,0,0.8532,0.4925,0.3607
+294,70,Consolidation|Effusion|Infiltration|Nodule,Pleural_Thickening,11,0.7379,0.3774,0.3605
+49,46,No Finding,Emphysema,5,0.7533,0.3938,0.3595
+318,28,Atelectasis|Nodule,Infiltration,8,0.7407,0.3815,0.3593
+354,57,Consolidation,Edema,3,0.6735,0.3164,0.3571
+111,57,No Finding,Emphysema,5,0.7495,0.3938,0.3557
+10,57,No Finding,Mass,9,0.7658,0.4103,0.3555
+346,30,Edema,Infiltration,8,0.736,0.3815,0.3546
+179,57,Atelectasis,Emphysema,5,0.7479,0.3938,0.3541
+33,57,No Finding,Nodule,10,0.7378,0.3841,0.3537
+240,80,Atelectasis|Consolidation|Effusion,Cardiomegaly,1,0.7985,0.4452,0.3533
+382,57,Edema|Infiltration,Hernia,7,0.5532,0.201,0.3522
+275,69,Mass,Cardiomegaly,1,0.7969,0.4452,0.3517
+363,46,Edema,Infiltration,8,0.7314,0.3815,0.3499
+338,30,Effusion|Pleural_Thickening|Pneumothorax,Infiltration,8,0.73,0.3815,0.3486
+163,69,Pneumothorax,Emphysema,5,0.742,0.3938,0.3482
+290,57,Edema,Pneumonia,12,0.6805,0.3327,0.3479
+425,28,Edema|Pneumonia,Infiltration,8,0.7286,0.3815,0.3471
+158,80,Effusion,Pleural_Thickening,11,0.7244,0.3774,0.347
+294,70,Consolidation|Effusion|Infiltration|Nodule,Emphysema,5,0.7403,0.3938,0.3465
+99,41,Pleural_Thickening|Pneumothorax,Fibrosis,6,0.7706,0.4242,0.3465
+160,70,Pneumothorax,Edema,3,0.6626,0.3164,0.3461
+342,46,Consolidation,Pneumonia,12,0.6782,0.3327,0.3456
+211,57,Effusion,Hernia,7,0.5463,0.201,0.3453
+276,46,Infiltration|Nodule,Pneumonia,12,0.6776,0.3327,0.3449
+8,35,Effusion,Infiltration,8,0.726,0.3815,0.3445
+60,35,Atelectasis|Infiltration,Emphysema,5,0.7382,0.3938,0.3444
+249,30,Atelectasis|Effusion|Infiltration|Pneumothorax,Pneumonia,12,0.6771,0.3327,0.3444
+283,46,Effusion|Fibrosis|Pneumothorax,Mass,9,0.7545,0.4103,0.3442
+227,57,Atelectasis|Mass,Emphysema,5,0.7374,0.3938,0.3436
+182,35,Pleural_Thickening,Emphysema,5,0.7369,0.3938,0.3431
+256,57,Pneumothorax,Pleural_Thickening,11,0.72,0.3774,0.3426
+430,14,Infiltration|Pneumonia,Pleural_Thickening,11,0.72,0.3774,0.3426
+239,28,Effusion|Infiltration|Nodule,Pneumonia,12,0.6748,0.3327,0.3421
+235,41,Mass,Atelectasis,0,0.8345,0.4925,0.342
+207,17,Nodule,Pneumonia,12,0.6745,0.3327,0.3418
+90,46,Atelectasis|Infiltration,Emphysema,5,0.7354,0.3938,0.3416
+405,57,Edema|Infiltration,Emphysema,5,0.7351,0.3938,0.3413
+375,69,Emphysema,Pleural_Thickening,11,0.7172,0.3774,0.3398
+376,17,Effusion|Infiltration|Pleural_Thickening,Cardiomegaly,1,0.7848,0.4452,0.3396
+412,70,Effusion|Fibrosis|Pleural_Thickening,Nodule,10,0.7235,0.3841,0.3395
+355,28,Cardiomegaly|Effusion,Mass,9,0.7488,0.4103,0.3385
+236,28,Atelectasis|Emphysema,Pneumonia,12,0.6707,0.3327,0.3381
+152,17,Atelectasis|Consolidation|Effusion,Pneumonia,12,0.6704,0.3327,0.3377
+184,6,Infiltration,Cardiomegaly,1,0.7828,0.4452,0.3376
+20,41,Atelectasis|Effusion|Infiltration,Mass,9,0.747,0.4103,0.3367
+134,41,No Finding,Infiltration,8,0.7168,0.3815,0.3353
+37,30,No Finding,Pneumonia,12,0.6673,0.3327,0.3347
+318,28,Atelectasis|Nodule,Pneumonia,12,0.6665,0.3327,0.3338
+1,70,Emphysema|Mass,Effusion,4,0.832,0.4991,0.3329
+264,41,Fibrosis|Infiltration,Nodule,10,0.7168,0.3841,0.3327
+16,46,Atelectasis,Cardiomegaly,1,0.7776,0.4452,0.3324
+266,41,Consolidation,Atelectasis,0,0.8237,0.4925,0.3312
+238,41,Edema,Nodule,10,0.7147,0.3841,0.3307
+32,46,Effusion,Mass,9,0.7398,0.4103,0.3295
+53,41,Infiltration,Cardiomegaly,1,0.7743,0.4452,0.3291
+313,57,Cardiomegaly|Edema|Effusion,Pneumonia,12,0.6614,0.3327,0.3287
+174,28,Infiltration,Nodule,10,0.7116,0.3841,0.3275
+128,69,Atelectasis|Effusion|Pleural_Thickening,Mass,9,0.7378,0.4103,0.3274
+167,35,Effusion|Nodule|Pleural_Thickening,Pneumonia,12,0.6598,0.3327,0.3271
+216,30,Infiltration|Pleural_Thickening,Mass,9,0.7374,0.4103,0.3271
+155,57,Infiltration,Nodule,10,0.7109,0.3841,0.3268
+15,70,Infiltration|Nodule,Edema,3,0.6432,0.3164,0.3268
+4,57,No Finding,Nodule,10,0.7109,0.3841,0.3268
+177,70,Pneumothorax,Mass,9,0.7366,0.4103,0.3263
+209,17,Pneumothorax,Effusion,4,0.825,0.4991,0.3259
+217,46,Emphysema,Nodule,10,0.7097,0.3841,0.3256
+159,69,Effusion|Infiltration,Edema,3,0.6418,0.3164,0.3254
+378,69,Atelectasis|Pneumonia,Nodule,10,0.7092,0.3841,0.3252
+45,69,No Finding,Nodule,10,0.7089,0.3841,0.3249
+184,6,Infiltration,Pneumonia,12,0.6572,0.3327,0.3245
+69,41,Atelectasis|Effusion,Pneumonia,12,0.656,0.3327,0.3233
+79,35,Infiltration,Hernia,7,0.5228,0.201,0.3218
+275,69,Mass,Edema,3,0.6381,0.3164,0.3217
+401,35,Emphysema,Consolidation,2,0.771,0.4503,0.3207
+141,28,Edema|Infiltration,Mass,9,0.7309,0.4103,0.3206
+125,46,No Finding,Mass,9,0.7308,0.4103,0.3204
+346,30,Edema,Pneumonia,12,0.6519,0.3327,0.3192
+100,57,No Finding,Emphysema,5,0.7128,0.3938,0.319
+350,30,Fibrosis|Pleural_Thickening,Pneumonia,12,0.6515,0.3327,0.3188
+14,37,Nodule,Mass,9,0.7289,0.4103,0.3186
+141,28,Edema|Infiltration,Pneumonia,12,0.6512,0.3327,0.3185
+11,35,Nodule|Pneumothorax,Emphysema,5,0.7119,0.3938,0.3181
+92,41,Infiltration,Pneumonia,12,0.6506,0.3327,0.3179
+153,2,Infiltration,Cardiomegaly,1,0.7618,0.4452,0.3166
+177,70,Pneumothorax,Effusion,4,0.8155,0.4991,0.3164
+354,57,Consolidation,Pneumonia,12,0.649,0.3327,0.3163
+236,28,Atelectasis|Emphysema,Cardiomegaly,1,0.7614,0.4452,0.3162
+136,57,No Finding,Mass,9,0.7262,0.4103,0.3158
+49,46,No Finding,Pleural_Thickening,11,0.6924,0.3774,0.315
+106,57,No Finding,Mass,9,0.7251,0.4103,0.3148
+187,70,Edema,Mass,9,0.724,0.4103,0.3137
+354,57,Consolidation,Infiltration,8,0.6948,0.3815,0.3134
+261,28,Nodule,Edema,3,0.6298,0.3164,0.3134
+237,57,Emphysema|Infiltration|Mass,Pneumothorax,13,0.912,0.5985,0.3134
+69,41,Atelectasis|Effusion,Infiltration,8,0.6947,0.3815,0.3132
+370,28,Atelectasis|Edema,Infiltration,8,0.6945,0.3815,0.313
+166,57,Effusion|Pneumothorax,Infiltration,8,0.6939,0.3815,0.3124
+30,70,Nodule,Hernia,7,0.5132,0.201,0.3122
+149,14,Infiltration,Edema,3,0.6278,0.3164,0.3114
+99,41,Pleural_Thickening|Pneumothorax,Mass,9,0.7217,0.4103,0.3114
+389,28,Edema|Infiltration|Pleural_Thickening,Pneumonia,12,0.6435,0.3327,0.3108
+368,37,Edema,Infiltration,8,0.692,0.3815,0.3105
+2,28,Atelectasis,Pneumonia,12,0.6431,0.3327,0.3104
+280,69,Consolidation|Effusion,Infiltration,8,0.6916,0.3815,0.3102
+392,28,Pleural_Thickening,Fibrosis,6,0.7343,0.4242,0.3101
+338,30,Effusion|Pleural_Thickening|Pneumothorax,Pneumonia,12,0.6422,0.3327,0.3095
+344,35,Emphysema|Infiltration,Edema,3,0.6257,0.3164,0.3093
+187,70,Edema,Pleural_Thickening,11,0.6867,0.3774,0.3093
+231,57,Consolidation,Pneumonia,12,0.6418,0.3327,0.3091
+339,37,Mass|Nodule|Pleural_Thickening,Hernia,7,0.5101,0.201,0.3091
+163,69,Pneumothorax,Hernia,7,0.5097,0.201,0.3087
+26,80,No Finding,Infiltration,8,0.6898,0.3815,0.3084
+179,57,Atelectasis,Pleural_Thickening,11,0.6852,0.3774,0.3078
+390,46,Edema|Pneumonia,Emphysema,5,0.7015,0.3938,0.3077
+82,37,No Finding,Effusion,4,0.8066,0.4991,0.3076
+259,14,Consolidation|Infiltration,Pneumonia,12,0.6401,0.3327,0.3074
+419,41,Effusion|Infiltration|Pneumonia,Edema,3,0.6234,0.3164,0.307
+163,69,Pneumothorax,Fibrosis,6,0.7311,0.4242,0.3069
+50,37,Edema,Infiltration,8,0.6881,0.3815,0.3067
+402,41,Atelectasis|Emphysema,Mass,9,0.7169,0.4103,0.3065
+272,35,Pneumothorax,Pneumonia,12,0.639,0.3327,0.3063
+263,46,Cardiomegaly,Mass,9,0.7165,0.4103,0.3062
+114,57,Mass,Effusion,4,0.8048,0.4991,0.3057
+32,46,Effusion,Pleural_Thickening,11,0.6825,0.3774,0.3051
+155,57,Infiltration,Mass,9,0.7152,0.4103,0.3049
+404,30,Edema,Pneumonia,12,0.6376,0.3327,0.3049
+426,35,Fibrosis,Pneumonia,12,0.6367,0.3327,0.3041
+98,69,Effusion,Pneumonia,12,0.6365,0.3327,0.3038
+62,6,No Finding,Pneumonia,12,0.6354,0.3327,0.3028
+223,70,Pneumothorax,Mass,9,0.713,0.4103,0.3027
+160,70,Pneumothorax,Infiltration,8,0.684,0.3815,0.3026
+416,70,Hernia|Infiltration,Effusion,4,0.8006,0.4991,0.3015
+273,30,Cardiomegaly|Effusion,Atelectasis,0,0.7937,0.4925,0.3012
+348,46,Pleural_Thickening,Mass,9,0.7112,0.4103,0.3009
+20,41,Atelectasis|Effusion|Infiltration,Edema,3,0.6171,0.3164,0.3007
+8,35,Effusion,Pleural_Thickening,11,0.6778,0.3774,0.3004
+143,57,Atelectasis|Effusion,Mass,9,0.7107,0.4103,0.3004
+26,80,No Finding,Nodule,10,0.6842,0.3841,0.3002
+350,30,Fibrosis|Pleural_Thickening,Infiltration,8,0.6815,0.3815,0.3001
+247,41,Pneumothorax,Mass,9,0.7102,0.4103,0.2999
+316,46,Atelectasis|Consolidation|Infiltration|Nodule,Mass,9,0.7101,0.4103,0.2997
+29,70,Effusion,Hernia,7,0.5002,0.201,0.2992
+355,28,Cardiomegaly|Effusion,Fibrosis,6,0.7234,0.4242,0.2992
+88,41,Atelectasis|Consolidation|Mass|Pneumothorax,Hernia,7,0.4999,0.201,0.2989
+393,35,Cardiomegaly,Pleural_Thickening,11,0.6761,0.3774,0.2987
+66,46,Atelectasis|Infiltration,Edema,3,0.615,0.3164,0.2986
+5,37,Effusion,Mass,9,0.7087,0.4103,0.2983
+50,37,Edema,Pneumonia,12,0.6308,0.3327,0.2982
+335,35,Consolidation|Infiltration|Mass,Pneumonia,12,0.6308,0.3327,0.2981
+271,69,Consolidation|Effusion|Infiltration,Cardiomegaly,1,0.7432,0.4452,0.298
+363,46,Edema,Mass,9,0.7083,0.4103,0.2979
+91,69,No Finding,Nodule,10,0.6814,0.3841,0.2973
+289,35,Nodule,Pneumonia,12,0.6292,0.3327,0.2965
+101,57,Infiltration,Mass,9,0.7067,0.4103,0.2964
+205,46,Pneumothorax,Fibrosis,6,0.7204,0.4242,0.2963
+69,41,Atelectasis|Effusion,Cardiomegaly,1,0.7406,0.4452,0.2954
+173,46,Effusion,Infiltration,8,0.6769,0.3815,0.2954
+44,57,Infiltration|Nodule,Mass,9,0.7056,0.4103,0.2953
+146,46,Effusion,Pneumonia,12,0.628,0.3327,0.2953
+54,46,Infiltration,Pneumonia,12,0.6275,0.3327,0.2948
+377,37,Edema,Pneumonia,12,0.6271,0.3327,0.2944
+280,69,Consolidation|Effusion,Edema,3,0.6103,0.3164,0.2939
+346,30,Edema,Effusion,4,0.7929,0.4991,0.2938
+49,46,No Finding,Mass,9,0.704,0.4103,0.2937
+90,46,Atelectasis|Infiltration,Effusion,4,0.7925,0.4991,0.2934
+120,41,Infiltration|Nodule,Mass,9,0.7036,0.4103,0.2933
+257,57,Pneumothorax,Emphysema,5,0.6866,0.3938,0.2928
+412,70,Effusion|Fibrosis|Pleural_Thickening,Mass,9,0.7031,0.4103,0.2928
+52,69,No Finding,Mass,9,0.7026,0.4103,0.2923
+214,57,Nodule|Pleural_Thickening,Emphysema,5,0.6858,0.3938,0.292
+363,46,Edema,Consolidation,2,0.7421,0.4503,0.2919
+343,70,Consolidation|Edema|Infiltration,Nodule,10,0.6756,0.3841,0.2915
+239,28,Effusion|Infiltration|Nodule,Cardiomegaly,1,0.7365,0.4452,0.2913
+138,35,Emphysema|Pneumothorax,Pleural_Thickening,11,0.6687,0.3774,0.2913
+213,35,Effusion|Pleural_Thickening,Nodule,10,0.674,0.3841,0.29
+219,57,Fibrosis,Pleural_Thickening,11,0.6668,0.3774,0.2894
+78,37,No Finding,Mass,9,0.6992,0.4103,0.2889
+99,41,Pleural_Thickening|Pneumothorax,Emphysema,5,0.6824,0.3938,0.2886
+95,57,Emphysema,Pneumothorax,13,0.8867,0.5985,0.2881
+299,80,Atelectasis|Consolidation|Effusion|Fibrosis,Infiltration,8,0.6689,0.3815,0.2875
+186,35,Emphysema,Pleural_Thickening,11,0.6638,0.3774,0.2864
+330,30,Infiltration|Pneumothorax,Cardiomegaly,1,0.7311,0.4452,0.2859
+59,41,No Finding,Edema,3,0.6022,0.3164,0.2858
+63,35,Infiltration,Pneumonia,12,0.6184,0.3327,0.2857
+307,57,Emphysema|Pneumothorax,Pleural_Thickening,11,0.6617,0.3774,0.2843
+63,35,Infiltration,Nodule,10,0.6674,0.3841,0.2833
+50,37,Edema,Effusion,4,0.7815,0.4991,0.2824
+245,57,Emphysema|Mass|Pneumothorax,Hernia,7,0.4832,0.201,0.2822
+364,30,Infiltration|Mass|Pleural_Thickening|Pneumonia,Nodule,10,0.6656,0.3841,0.2815
+212,46,Consolidation|Effusion|Nodule,Pneumonia,12,0.6139,0.3327,0.2813
+371,37,Atelectasis|Emphysema|Pneumothorax,Consolidation,2,0.7306,0.4503,0.2803
+429,57,Infiltration|Pneumonia,Fibrosis,6,0.7042,0.4242,0.2801
+62,6,No Finding,Cardiomegaly,1,0.7253,0.4452,0.2801
+418,46,Fibrosis,Nodule,10,0.6638,0.3841,0.2797
+212,46,Consolidation|Effusion|Nodule,Edema,3,0.5959,0.3164,0.2795
+237,57,Emphysema|Infiltration|Mass,Atelectasis,0,0.7718,0.4925,0.2793
+346,30,Edema,Consolidation,2,0.7293,0.4503,0.279
+7,57,No Finding,Edema,3,0.5942,0.3164,0.2778
+23,6,No Finding,Emphysema,5,0.6715,0.3938,0.2777
+98,69,Effusion,Nodule,10,0.6614,0.3841,0.2774
+350,30,Fibrosis|Pleural_Thickening,Edema,3,0.5934,0.3164,0.277
+13,46,Effusion,Atelectasis,0,0.7693,0.4925,0.2769
+289,35,Nodule,Effusion,4,0.7756,0.4991,0.2765
+336,17,Consolidation,Edema,3,0.5926,0.3164,0.2762
+33,57,No Finding,Hernia,7,0.4768,0.201,0.2758
+332,41,Atelectasis|Effusion|Emphysema,Hernia,7,0.4763,0.201,0.2753
+217,46,Emphysema,Fibrosis,6,0.6993,0.4242,0.2752
+228,70,Pneumothorax,Mass,9,0.6852,0.4103,0.2749
+90,46,Atelectasis|Infiltration,Mass,9,0.6851,0.4103,0.2748
+407,57,Atelectasis|Consolidation|Effusion|Emphysema|Infiltration|Mass,Hernia,7,0.4758,0.201,0.2748
+111,57,No Finding,Effusion,4,0.7738,0.4991,0.2747
+393,35,Cardiomegaly,Infiltration,8,0.6557,0.3815,0.2742
+237,57,Emphysema|Infiltration|Mass,Effusion,4,0.7733,0.4991,0.2742
+331,57,Consolidation|Effusion,Edema,3,0.5901,0.3164,0.2737
+143,57,Atelectasis|Effusion,Pleural_Thickening,11,0.6508,0.3774,0.2734
+187,70,Edema,Nodule,10,0.6572,0.3841,0.2731
+404,30,Edema,Nodule,10,0.6568,0.3841,0.2728
+270,28,Fibrosis,Mass,9,0.6826,0.4103,0.2722
+209,17,Pneumothorax,Atelectasis,0,0.7643,0.4925,0.2719
+369,57,Emphysema|Infiltration,Atelectasis,0,0.7638,0.4925,0.2713
+376,17,Effusion|Infiltration|Pleural_Thickening,Atelectasis,0,0.7637,0.4925,0.2712
+90,46,Atelectasis|Infiltration,Consolidation,2,0.7208,0.4503,0.2706
+295,37,Mass,Nodule,10,0.6543,0.3841,0.2702
+338,30,Effusion|Pleural_Thickening|Pneumothorax,Edema,3,0.5859,0.3164,0.2695
+193,17,Infiltration|Nodule|Pneumonia,Mass,9,0.6796,0.4103,0.2692
+431,69,Infiltration|Mass|Pneumonia,Effusion,4,0.7677,0.4991,0.2686
+404,30,Edema,Infiltration,8,0.6499,0.3815,0.2685
+48,46,No Finding,Nodule,10,0.6526,0.3841,0.2685
+176,80,Effusion|Infiltration,Cardiomegaly,1,0.7136,0.4452,0.2684
+342,46,Consolidation,Cardiomegaly,1,0.7133,0.4452,0.2681
+139,70,Infiltration|Pleural_Thickening,Edema,3,0.584,0.3164,0.2676
+186,35,Emphysema,Pneumothorax,13,0.8658,0.5985,0.2673
+212,46,Consolidation|Effusion|Nodule,Infiltration,8,0.6485,0.3815,0.2671
+299,80,Atelectasis|Consolidation|Effusion|Fibrosis,Edema,3,0.583,0.3164,0.2666
+26,80,No Finding,Edema,3,0.5829,0.3164,0.2665
+289,35,Nodule,Cardiomegaly,1,0.7113,0.4452,0.266
+162,69,Consolidation|Edema|Infiltration,Nodule,10,0.6497,0.3841,0.2656
+166,57,Effusion|Pneumothorax,Consolidation,2,0.7153,0.4503,0.265
+429,57,Infiltration|Pneumonia,Edema,3,0.5813,0.3164,0.2649
+215,28,Edema|Effusion|Pneumonia,Infiltration,8,0.6464,0.3815,0.2649
+342,46,Consolidation,Edema,3,0.5809,0.3164,0.2645
+313,57,Cardiomegaly|Edema|Effusion,Infiltration,8,0.6459,0.3815,0.2644
+383,28,Edema,Nodule,10,0.6484,0.3841,0.2643
+386,69,Consolidation|Emphysema,Fibrosis,6,0.6885,0.4242,0.2643
+309,41,Cardiomegaly|Effusion|Infiltration,Edema,3,0.5807,0.3164,0.2643
+389,28,Edema|Infiltration|Pleural_Thickening,Consolidation,2,0.7143,0.4503,0.2641
+390,46,Edema|Pneumonia,Mass,9,0.6742,0.4103,0.2638
+19,46,Consolidation,Mass,9,0.6738,0.4103,0.2635
+153,2,Infiltration,Edema,3,0.5795,0.3164,0.2631
+388,41,Fibrosis|Infiltration,Cardiomegaly,1,0.7082,0.4452,0.263
+0,70,No Finding,Edema,3,0.579,0.3164,0.2626
+164,35,Effusion|Infiltration,Emphysema,5,0.6561,0.3938,0.2623
+165,30,Infiltration,Mass,9,0.6724,0.4103,0.2621
+246,70,Mass|Pleural_Thickening,Effusion,4,0.761,0.4991,0.2619
+279,46,Effusion|Pneumothorax,Consolidation,2,0.7121,0.4503,0.2618
+390,46,Edema|Pneumonia,Nodule,10,0.6457,0.3841,0.2616
+333,35,Effusion|Emphysema,Edema,3,0.5776,0.3164,0.2612
+94,57,Atelectasis|Mass,Pleural_Thickening,11,0.6383,0.3774,0.2609
+368,37,Edema,Cardiomegaly,1,0.7048,0.4452,0.2596
+101,57,Infiltration,Edema,3,0.576,0.3164,0.2596
+154,30,Effusion,Emphysema,5,0.6525,0.3938,0.2587
+173,46,Effusion,Pneumonia,12,0.5908,0.3327,0.2581
+72,69,No Finding,Hernia,7,0.4589,0.201,0.2579
+167,35,Effusion|Nodule|Pleural_Thickening,Mass,9,0.6681,0.4103,0.2578
+380,35,Effusion|Emphysema,Fibrosis,6,0.6819,0.4242,0.2577
+117,41,No Finding,Hernia,7,0.4584,0.201,0.2574
+394,70,Fibrosis,Emphysema,5,0.6507,0.3938,0.2569
+76,30,Infiltration,Nodule,10,0.6406,0.3841,0.2565
+165,30,Infiltration,Pneumonia,12,0.5892,0.3327,0.2565
+328,30,Edema|Infiltration,Mass,9,0.6665,0.4103,0.2561
+203,57,Nodule,Mass,9,0.6664,0.4103,0.2561
+327,69,Pneumothorax,Hernia,7,0.4567,0.201,0.2557
+238,41,Edema,Infiltration,8,0.6371,0.3815,0.2556
+186,35,Emphysema,Effusion,4,0.7546,0.4991,0.2555
+70,57,No Finding,Edema,3,0.5716,0.3164,0.2552
+372,57,Effusion|Fibrosis,Pleural_Thickening,11,0.6321,0.3774,0.2547
+154,30,Effusion,Infiltration,8,0.6359,0.3815,0.2544
+41,46,Edema|Infiltration|Mass,Pneumonia,12,0.5867,0.3327,0.254
+391,17,Cardiomegaly,Edema,3,0.5703,0.3164,0.2539
+40,57,Atelectasis,Mass,9,0.6642,0.4103,0.2539
+267,35,Nodule,Mass,9,0.6641,0.4103,0.2538
+332,41,Atelectasis|Effusion|Emphysema,Pneumonia,12,0.5854,0.3327,0.2527
+328,30,Edema|Infiltration,Pleural_Thickening,11,0.629,0.3774,0.2516
+236,28,Atelectasis|Emphysema,Infiltration,8,0.6314,0.3815,0.2499
+111,57,No Finding,Atelectasis,0,0.742,0.4925,0.2495
+91,69,No Finding,Pleural_Thickening,11,0.6265,0.3774,0.2492
+17,14,No Finding,Mass,9,0.6592,0.4103,0.2489
+106,57,No Finding,Emphysema,5,0.6426,0.3938,0.2488
+72,69,No Finding,Mass,9,0.659,0.4103,0.2487
+214,57,Nodule|Pleural_Thickening,Mass,9,0.6587,0.4103,0.2483
+207,17,Nodule,Mass,9,0.6582,0.4103,0.2479
+7,57,No Finding,Atelectasis,0,0.7404,0.4925,0.2479
+91,69,No Finding,Mass,9,0.658,0.4103,0.2476
+2,28,Atelectasis,Infiltration,8,0.6287,0.3815,0.2473
+377,37,Edema,Infiltration,8,0.6287,0.3815,0.2473
+278,46,Atelectasis|Consolidation,Nodule,10,0.6311,0.3841,0.2471
+66,46,Atelectasis|Infiltration,Nodule,10,0.6311,0.3841,0.247
+106,57,No Finding,Pleural_Thickening,11,0.6241,0.3774,0.2467
+335,35,Consolidation|Infiltration|Mass,Edema,3,0.5629,0.3164,0.2465
+267,35,Nodule,Emphysema,5,0.6402,0.3938,0.2464
+234,37,Infiltration|Nodule,Fibrosis,6,0.67,0.4242,0.2458
+187,70,Edema,Fibrosis,6,0.6697,0.4242,0.2456
+5,37,Effusion,Edema,3,0.562,0.3164,0.2456
+120,41,Infiltration|Nodule,Pneumonia,12,0.5781,0.3327,0.2454
+238,41,Edema,Mass,9,0.6554,0.4103,0.2451
+230,41,Consolidation|Mass,Atelectasis,0,0.7376,0.4925,0.2451
+148,41,Effusion|Mass,Atelectasis,0,0.7374,0.4925,0.2449
+249,30,Atelectasis|Effusion|Infiltration|Pneumothorax,Edema,3,0.5612,0.3164,0.2448
+175,30,Atelectasis|Effusion|Mass,Fibrosis,6,0.6683,0.4242,0.2442
+426,35,Fibrosis,Mass,9,0.6544,0.4103,0.2441
+401,35,Emphysema,Infiltration,8,0.6254,0.3815,0.2439
+8,35,Effusion,Edema,3,0.5596,0.3164,0.2432
+167,35,Effusion|Nodule|Pleural_Thickening,Infiltration,8,0.6246,0.3815,0.2431
+152,17,Atelectasis|Consolidation|Effusion,Infiltration,8,0.6243,0.3815,0.2428
+422,57,Atelectasis|Pneumonia,Mass,9,0.6531,0.4103,0.2427
+235,41,Mass,Effusion,4,0.7415,0.4991,0.2424
+246,70,Mass|Pleural_Thickening,Hernia,7,0.4432,0.201,0.2422
+26,80,No Finding,Mass,9,0.6522,0.4103,0.2419
+329,37,Atelectasis|Consolidation|Effusion|Infiltration,Emphysema,5,0.6357,0.3938,0.2419
+298,69,Fibrosis|Infiltration,Mass,9,0.6519,0.4103,0.2416
+168,69,Effusion|Nodule,Mass,9,0.6519,0.4103,0.2415
+64,69,Infiltration,Mass,9,0.6515,0.4103,0.2412
+297,69,Fibrosis|Pleural_Thickening,Hernia,7,0.4415,0.201,0.2405
+17,14,No Finding,Cardiomegaly,1,0.6852,0.4452,0.24
+161,57,Effusion,Emphysema,5,0.6336,0.3938,0.2398
+239,28,Effusion|Infiltration|Nodule,Edema,3,0.5561,0.3164,0.2397
+90,46,Atelectasis|Infiltration,Pleural_Thickening,11,0.6169,0.3774,0.2395
+388,41,Fibrosis|Infiltration,Nodule,10,0.6235,0.3841,0.2394
+420,57,Edema|Infiltration|Pneumonia,Mass,9,0.6494,0.4103,0.2391
+241,41,Effusion|Pneumothorax,Mass,9,0.6491,0.4103,0.2388
+340,69,Emphysema,Hernia,7,0.4397,0.201,0.2387
+420,57,Edema|Infiltration|Pneumonia,Cardiomegaly,1,0.6833,0.4452,0.238
+281,70,Effusion|Nodule|Pleural_Thickening,Emphysema,5,0.6317,0.3938,0.2379
+147,46,Mass,Edema,3,0.5537,0.3164,0.2373
+227,57,Atelectasis|Mass,Nodule,10,0.6212,0.3841,0.2371
+348,46,Pleural_Thickening,Nodule,10,0.6211,0.3841,0.237
+228,70,Pneumothorax,Pleural_Thickening,11,0.6142,0.3774,0.2368
+318,28,Atelectasis|Nodule,Consolidation,2,0.687,0.4503,0.2367
+304,30,Effusion|Pneumonia,Mass,9,0.6468,0.4103,0.2365
+25,57,No Finding,Nodule,10,0.6205,0.3841,0.2364
+381,57,Edema|Infiltration|Nodule,Consolidation,2,0.6865,0.4503,0.2363
+349,14,Consolidation|Infiltration,Cardiomegaly,1,0.6812,0.4452,0.236
+224,35,Effusion|Emphysema,Atelectasis,0,0.7281,0.4925,0.2356
+92,41,Infiltration,Edema,3,0.5519,0.3164,0.2355
+15,70,Infiltration|Nodule,Effusion,4,0.734,0.4991,0.2349
+157,46,Emphysema,Mass,9,0.6451,0.4103,0.2348
+377,37,Edema,Nodule,10,0.6187,0.3841,0.2346
+99,41,Pleural_Thickening|Pneumothorax,Effusion,4,0.7332,0.4991,0.2341
+55,30,No Finding,Cardiomegaly,1,0.6793,0.4452,0.2341
+307,57,Emphysema|Pneumothorax,Atelectasis,0,0.7265,0.4925,0.234
+306,41,Edema|Effusion|Infiltration,Cardiomegaly,1,0.679,0.4452,0.2338
+398,35,Atelectasis|Fibrosis,Pleural_Thickening,11,0.6104,0.3774,0.233
+87,41,Atelectasis|Effusion,Hernia,7,0.4337,0.201,0.2327
+275,69,Mass,Pneumonia,12,0.5651,0.3327,0.2325
+323,70,Atelectasis|Consolidation,Pleural_Thickening,11,0.6095,0.3774,0.2321
+176,80,Effusion|Infiltration,Atelectasis,0,0.7243,0.4925,0.2318
+429,57,Infiltration|Pneumonia,Pleural_Thickening,11,0.609,0.3774,0.2316
+374,57,Cardiomegaly|Effusion|Emphysema|Mass,Hernia,7,0.4324,0.201,0.2314
+130,70,Effusion,Atelectasis,0,0.723,0.4925,0.2305
+86,46,No Finding,Mass,9,0.6407,0.4103,0.2303
+311,28,Mass,Pneumonia,12,0.5626,0.3327,0.2299
+37,30,No Finding,Effusion,4,0.7289,0.4991,0.2298
+310,69,Mass,Pleural_Thickening,11,0.6071,0.3774,0.2297
+173,46,Effusion,Consolidation,2,0.6795,0.4503,0.2293
+66,46,Atelectasis|Infiltration,Pneumonia,12,0.562,0.3327,0.2293
+54,46,Infiltration,Mass,9,0.6395,0.4103,0.2292
+301,30,Infiltration|Nodule,Cardiomegaly,1,0.6741,0.4452,0.2289
+417,57,Infiltration|Pneumonia,Pleural_Thickening,11,0.6058,0.3774,0.2284
+224,35,Effusion|Emphysema,Consolidation,2,0.6783,0.4503,0.228
+15,70,Infiltration|Nodule,Cardiomegaly,1,0.673,0.4452,0.2278
+417,57,Infiltration|Pneumonia,Nodule,10,0.6119,0.3841,0.2278
+115,28,No Finding,Pleural_Thickening,11,0.6036,0.3774,0.2262
+219,57,Fibrosis,Nodule,10,0.6095,0.3841,0.2254
+211,57,Effusion,Pleural_Thickening,11,0.6028,0.3774,0.2254
+361,28,Hernia|Mass,Nodule,10,0.6093,0.3841,0.2253
+221,46,Atelectasis,Infiltration,8,0.6066,0.3815,0.2252
+274,70,Effusion|Infiltration|Pneumothorax,Edema,3,0.5415,0.3164,0.2251
+62,6,No Finding,Infiltration,8,0.6064,0.3815,0.2249
+115,28,No Finding,Infiltration,8,0.6061,0.3815,0.2247
+367,37,Effusion|Emphysema|Pleural_Thickening|Pneumothorax,Atelectasis,0,0.7169,0.4925,0.2245
+127,57,No Finding,Cardiomegaly,1,0.6697,0.4452,0.2245
+386,69,Consolidation|Emphysema,Pleural_Thickening,11,0.6018,0.3774,0.2244
+314,41,Consolidation,Emphysema,5,0.6181,0.3938,0.2243
+185,41,Pneumonia|Pneumothorax,Effusion,4,0.7234,0.4991,0.2243
+345,14,Consolidation,Emphysema,5,0.6181,0.3938,0.2243
+247,41,Pneumothorax,Effusion,4,0.723,0.4991,0.2239
+114,57,Mass,Pleural_Thickening,11,0.6013,0.3774,0.2239
+169,41,Effusion,Mass,9,0.6339,0.4103,0.2236
+56,46,No Finding,Pleural_Thickening,11,0.6008,0.3774,0.2234
+231,57,Consolidation,Infiltration,8,0.6045,0.3815,0.2231
+188,46,Atelectasis|Edema|Infiltration,Mass,9,0.6328,0.4103,0.2225
+138,35,Emphysema|Pneumothorax,Fibrosis,6,0.6466,0.4242,0.2224
+207,17,Nodule,Infiltration,8,0.6039,0.3815,0.2224
+158,80,Effusion,Nodule,10,0.6064,0.3841,0.2223
+119,35,Atelectasis|Pneumonia,Nodule,10,0.6062,0.3841,0.2221
+139,70,Infiltration|Pleural_Thickening,Effusion,4,0.7211,0.4991,0.222
+93,70,Atelectasis,Mass,9,0.6322,0.4103,0.2219
+39,14,No Finding,Cardiomegaly,1,0.6668,0.4452,0.2216
+392,28,Pleural_Thickening,Mass,9,0.6315,0.4103,0.2212
+200,57,Effusion,Pleural_Thickening,11,0.5984,0.3774,0.221
+13,46,Effusion,Pneumonia,12,0.5535,0.3327,0.2208
+257,57,Pneumothorax,Pleural_Thickening,11,0.5981,0.3774,0.2207
+273,30,Cardiomegaly|Effusion,Nodule,10,0.6043,0.3841,0.2203
+100,57,No Finding,Pleural_Thickening,11,0.5976,0.3774,0.2202
+218,70,Atelectasis,Fibrosis,6,0.644,0.4242,0.2198
+316,46,Atelectasis|Consolidation|Infiltration|Nodule,Pneumonia,12,0.5523,0.3327,0.2196
+149,14,Infiltration,Pneumonia,12,0.552,0.3327,0.2193
+130,70,Effusion,Pleural_Thickening,11,0.5966,0.3774,0.2192
+182,35,Pleural_Thickening,Fibrosis,6,0.643,0.4242,0.2189
+390,46,Edema|Pneumonia,Consolidation,2,0.6691,0.4503,0.2189
+431,69,Infiltration|Mass|Pneumonia,Hernia,7,0.4197,0.201,0.2187
+194,30,Effusion|Infiltration,Mass,9,0.6288,0.4103,0.2185
+260,46,Consolidation|Infiltration,Mass,9,0.6286,0.4103,0.2183
+185,41,Pneumonia|Pneumothorax,Atelectasis,0,0.7107,0.4925,0.2182
+160,70,Pneumothorax,Atelectasis,0,0.7107,0.4925,0.2182
+27,41,Atelectasis|Cardiomegaly|Effusion|Infiltration,Mass,9,0.6284,0.4103,0.2181
+299,80,Atelectasis|Consolidation|Effusion|Fibrosis,Pneumonia,12,0.5508,0.3327,0.2181
+289,35,Nodule,Infiltration,8,0.5994,0.3815,0.218
+392,28,Pleural_Thickening,Nodule,10,0.6006,0.3841,0.2165
+311,28,Mass,Fibrosis,6,0.6405,0.4242,0.2163
+387,17,Emphysema|Pneumothorax,Consolidation,2,0.6665,0.4503,0.2162
+241,41,Effusion|Pneumothorax,Nodule,10,0.6001,0.3841,0.216
+225,57,Edema,Consolidation,2,0.6662,0.4503,0.216
+397,35,Effusion|Mass|Pneumonia,Cardiomegaly,1,0.6611,0.4452,0.2159
+398,35,Atelectasis|Fibrosis,Nodule,10,0.6,0.3841,0.2159
+324,30,Cardiomegaly,Pneumonia,12,0.5481,0.3327,0.2154
+20,41,Atelectasis|Effusion|Infiltration,Pneumonia,12,0.5481,0.3327,0.2154
+29,70,Effusion,Cardiomegaly,1,0.6602,0.4452,0.215
+325,28,Pneumothorax,Infiltration,8,0.5964,0.3815,0.215
+49,46,No Finding,Fibrosis,6,0.6388,0.4242,0.2146
+13,46,Effusion,Edema,3,0.5304,0.3164,0.214
+106,57,No Finding,Fibrosis,6,0.6379,0.4242,0.2137
+52,69,No Finding,Hernia,7,0.4146,0.201,0.2136
+334,46,Cardiomegaly|Infiltration,Pneumonia,12,0.546,0.3327,0.2133
+427,57,Fibrosis,Cardiomegaly,1,0.6584,0.4452,0.2132
+49,46,No Finding,Pneumothorax,13,0.8112,0.5985,0.2127
+75,46,No Finding,Nodule,10,0.5964,0.3841,0.2123
+432,80,Atelectasis|Effusion|Pneumonia,Cardiomegaly,1,0.6575,0.4452,0.2122
+378,69,Atelectasis|Pneumonia,Mass,9,0.6221,0.4103,0.2118
+333,35,Effusion|Emphysema,Consolidation,2,0.6621,0.4503,0.2118
+400,28,Edema|Effusion,Nodule,10,0.5958,0.3841,0.2117
+96,57,No Finding,Hernia,7,0.4126,0.201,0.2116
+179,57,Atelectasis,Pneumothorax,13,0.8099,0.5985,0.2114
+151,70,Effusion,Cardiomegaly,1,0.6564,0.4452,0.2112
+65,30,No Finding,Pleural_Thickening,11,0.5886,0.3774,0.2112
+157,46,Emphysema,Hernia,7,0.4121,0.201,0.2111
+41,46,Edema|Infiltration|Mass,Nodule,10,0.5951,0.3841,0.211
+380,35,Effusion|Emphysema,Mass,9,0.6212,0.4103,0.2109
+80,37,Infiltration,Nodule,10,0.595,0.3841,0.2109
+108,46,No Finding,Nodule,10,0.5948,0.3841,0.2107
+251,28,Pneumonia,Nodule,10,0.5946,0.3841,0.2105
+318,28,Atelectasis|Nodule,Effusion,4,0.7093,0.4991,0.2102
+114,57,Mass,Hernia,7,0.4111,0.201,0.2101
+86,46,No Finding,Nodule,10,0.5941,0.3841,0.21
+187,70,Edema,Hernia,7,0.4109,0.201,0.2099
+369,57,Emphysema|Infiltration,Mass,9,0.6201,0.4103,0.2098
+420,57,Edema|Infiltration|Pneumonia,Nodule,10,0.5938,0.3841,0.2098
+178,57,Infiltration,Pleural_Thickening,11,0.5871,0.3774,0.2097
+45,69,No Finding,Emphysema,5,0.6034,0.3938,0.2096
+195,80,Atelectasis|Cardiomegaly,Effusion,4,0.7086,0.4991,0.2095
+197,35,Consolidation,Pneumonia,12,0.5417,0.3327,0.209
+123,28,No Finding,Edema,3,0.5251,0.3164,0.2087
+284,69,Atelectasis|Pneumothorax,Consolidation,2,0.659,0.4503,0.2087
+385,35,Cardiomegaly,Effusion,4,0.7076,0.4991,0.2085
+362,35,Cardiomegaly,Pneumonia,12,0.541,0.3327,0.2083
+188,46,Atelectasis|Edema|Infiltration,Effusion,4,0.7074,0.4991,0.2083
+294,70,Consolidation|Effusion|Infiltration|Nodule,Fibrosis,6,0.632,0.4242,0.2078
+308,69,Atelectasis|Effusion|Pleural_Thickening,Mass,9,0.6178,0.4103,0.2075
+210,70,Atelectasis|Pneumothorax,Pleural_Thickening,11,0.5844,0.3774,0.207
+319,69,Pleural_Thickening,Pneumonia,12,0.5394,0.3327,0.2067
+211,57,Effusion,Emphysema,5,0.5997,0.3938,0.2059
+48,46,No Finding,Mass,9,0.6157,0.4103,0.2054
+218,70,Atelectasis,Mass,9,0.6157,0.4103,0.2054
+164,35,Effusion|Infiltration,Consolidation,2,0.6556,0.4503,0.2053
+421,14,Infiltration|Pneumonia,Cardiomegaly,1,0.6505,0.4452,0.2053
+252,28,Atelectasis|Nodule,Mass,9,0.6155,0.4103,0.2051
+340,69,Emphysema,Mass,9,0.6151,0.4103,0.2048
+430,14,Infiltration|Pneumonia,Nodule,10,0.5889,0.3841,0.2048
+275,69,Mass,Effusion,4,0.7038,0.4991,0.2047
+11,35,Nodule|Pneumothorax,Pleural_Thickening,11,0.5819,0.3774,0.2045
+311,28,Mass,Nodule,10,0.5885,0.3841,0.2045
+13,46,Effusion,Infiltration,8,0.5858,0.3815,0.2044
+9,69,No Finding,Atelectasis,0,0.6968,0.4925,0.2043
+270,28,Fibrosis,Edema,3,0.5206,0.3164,0.2042
+87,41,Atelectasis|Effusion,Emphysema,5,0.5978,0.3938,0.204
+356,46,Emphysema|Infiltration|Mass|Pneumothorax,Pleural_Thickening,11,0.5814,0.3774,0.204
+9,69,No Finding,Emphysema,5,0.5975,0.3938,0.2037
+178,57,Infiltration,Effusion,4,0.7023,0.4991,0.2032
+56,46,No Finding,Nodule,10,0.5873,0.3841,0.2032
+205,46,Pneumothorax,Pleural_Thickening,11,0.5797,0.3774,0.2023
+114,57,Mass,Atelectasis,0,0.6945,0.4925,0.202
+275,69,Mass,Infiltration,8,0.5833,0.3815,0.2019
+158,80,Effusion,Hernia,7,0.4027,0.201,0.2017
+208,30,Atelectasis,Infiltration,8,0.5829,0.3815,0.2014
+342,46,Consolidation,Infiltration,8,0.5829,0.3815,0.2014
+389,28,Edema|Infiltration|Pleural_Thickening,Mass,9,0.6117,0.4103,0.2013
+106,57,No Finding,Nodule,10,0.5853,0.3841,0.2012
+115,28,No Finding,Mass,9,0.6114,0.4103,0.2011
+393,35,Cardiomegaly,Pneumonia,12,0.5336,0.3327,0.201
+353,41,Fibrosis|Infiltration,Emphysema,5,0.5947,0.3938,0.2009
+430,14,Infiltration|Pneumonia,Effusion,4,0.6995,0.4991,0.2004
+291,46,Emphysema|Infiltration|Pneumothorax,Consolidation,2,0.6506,0.4503,0.2003
+307,57,Emphysema|Pneumothorax,Fibrosis,6,0.6243,0.4242,0.2001
+374,57,Cardiomegaly|Effusion|Emphysema|Mass,Pneumothorax,13,0.7985,0.5985,0.2
+208,30,Atelectasis,Mass,9,0.6102,0.4103,0.1999
+318,28,Atelectasis|Nodule,Edema,3,0.5159,0.3164,0.1995
+271,69,Consolidation|Effusion|Infiltration,Atelectasis,0,0.6918,0.4925,0.1993
+220,35,Fibrosis,Hernia,7,0.4001,0.201,0.1991
+414,46,Fibrosis,Mass,9,0.6093,0.4103,0.199
+432,80,Atelectasis|Effusion|Pneumonia,Consolidation,2,0.6491,0.4503,0.1989
+410,57,Emphysema|Pneumothorax,Mass,9,0.609,0.4103,0.1987
+101,57,Infiltration,Pneumonia,12,0.5313,0.3327,0.1986
+142,57,Nodule,Mass,9,0.6088,0.4103,0.1985
+208,30,Atelectasis,Pleural_Thickening,11,0.5759,0.3774,0.1985
+133,70,No Finding,Hernia,7,0.3993,0.201,0.1983
+121,57,No Finding,Nodule,10,0.582,0.3841,0.198
+325,28,Pneumothorax,Consolidation,2,0.6482,0.4503,0.1979
+354,57,Consolidation,Cardiomegaly,1,0.643,0.4452,0.1978
+106,57,No Finding,Hernia,7,0.3981,0.201,0.1971
+384,30,Cardiomegaly,Pneumonia,12,0.5295,0.3327,0.1968
+160,70,Pneumothorax,Effusion,4,0.6955,0.4991,0.1965
+131,28,No Finding,Mass,9,0.6068,0.4103,0.1965
+408,37,Atelectasis|Edema|Effusion|Infiltration,Pneumonia,12,0.5291,0.3327,0.1964
+262,41,Mass,Nodule,10,0.5804,0.3841,0.1964
+272,35,Pneumothorax,Pleural_Thickening,11,0.5737,0.3774,0.1963
+151,70,Effusion,Pleural_Thickening,11,0.5735,0.3774,0.1961
+331,57,Consolidation|Effusion,Pneumonia,12,0.5288,0.3327,0.1961
+232,57,Infiltration|Nodule,Pneumonia,12,0.5287,0.3327,0.196
+266,41,Consolidation,Mass,9,0.6062,0.4103,0.1959
+311,28,Mass,Pleural_Thickening,11,0.5733,0.3774,0.1959
+337,35,Pleural_Thickening,Mass,9,0.6061,0.4103,0.1958
+61,46,No Finding,Pleural_Thickening,11,0.5731,0.3774,0.1957
+168,69,Effusion|Nodule,Consolidation,2,0.6458,0.4503,0.1956
+280,69,Consolidation|Effusion,Mass,9,0.6052,0.4103,0.1949
+336,17,Consolidation,Pneumonia,12,0.5275,0.3327,0.1948
+397,35,Effusion|Mass|Pneumonia,Edema,3,0.511,0.3164,0.1946
+279,46,Effusion|Pneumothorax,Mass,9,0.6049,0.4103,0.1946
+218,70,Atelectasis,Nodule,10,0.5784,0.3841,0.1943
+279,46,Effusion|Pneumothorax,Atelectasis,0,0.6868,0.4925,0.1943
+197,35,Consolidation,Fibrosis,6,0.6185,0.4242,0.1943
+246,70,Mass|Pleural_Thickening,Consolidation,2,0.6442,0.4503,0.1939
+337,35,Pleural_Thickening,Atelectasis,0,0.6863,0.4925,0.1939
+215,28,Edema|Effusion|Pneumonia,Consolidation,2,0.644,0.4503,0.1937
+322,69,Emphysema,Consolidation,2,0.6437,0.4503,0.1934
+175,30,Atelectasis|Effusion|Mass,Pneumonia,12,0.5259,0.3327,0.1932
+146,46,Effusion,Infiltration,8,0.5746,0.3815,0.1932
+13,46,Effusion,Cardiomegaly,1,0.6383,0.4452,0.1931
+11,35,Nodule|Pneumothorax,Mass,9,0.6034,0.4103,0.1931
+126,57,No Finding,Nodule,10,0.5769,0.3841,0.1929
+261,28,Nodule,Pneumonia,12,0.5255,0.3327,0.1928
+160,70,Pneumothorax,Pneumonia,12,0.5251,0.3327,0.1924
+67,69,Emphysema|Pneumothorax,Pleural_Thickening,11,0.5698,0.3774,0.1924
+431,69,Infiltration|Mass|Pneumonia,Pleural_Thickening,11,0.5696,0.3774,0.1922
+238,41,Edema,Pneumonia,12,0.5246,0.3327,0.1919
+70,57,No Finding,Infiltration,8,0.5729,0.3815,0.1914
+60,35,Atelectasis|Infiltration,Fibrosis,6,0.6148,0.4242,0.1907
+28,14,No Finding,Mass,9,0.6009,0.4103,0.1906
+325,28,Pneumothorax,Nodule,10,0.5746,0.3841,0.1905
+190,35,Pneumothorax,Nodule,10,0.5743,0.3841,0.1903
+169,41,Effusion,Atelectasis,0,0.6823,0.4925,0.1898
+9,69,No Finding,Hernia,7,0.3908,0.201,0.1898
+134,41,No Finding,Edema,3,0.506,0.3164,0.1896
+268,17,Atelectasis|Pneumothorax,Cardiomegaly,1,0.6345,0.4452,0.1893
+209,17,Pneumothorax,Fibrosis,6,0.6132,0.4242,0.1891
+37,30,No Finding,Consolidation,2,0.639,0.4503,0.1887
+208,30,Atelectasis,Nodule,10,0.5728,0.3841,0.1887
+316,46,Atelectasis|Consolidation|Infiltration|Nodule,Edema,3,0.505,0.3164,0.1886
+131,28,No Finding,Nodule,10,0.5726,0.3841,0.1885
+432,80,Atelectasis|Effusion|Pneumonia,Infiltration,8,0.5699,0.3815,0.1885
+84,57,No Finding,Pneumonia,12,0.5211,0.3327,0.1884
+242,41,Effusion|Pneumothorax,Mass,9,0.5987,0.4103,0.1884
+248,41,Nodule,Edema,3,0.5045,0.3164,0.1881
+181,37,Infiltration,Nodule,10,0.5716,0.3841,0.1875
+176,80,Effusion|Infiltration,Hernia,7,0.3883,0.201,0.1873
+2,28,Atelectasis,Consolidation,2,0.6376,0.4503,0.1873
+95,57,Emphysema,Atelectasis,0,0.6798,0.4925,0.1873
+294,70,Consolidation|Effusion|Infiltration|Nodule,Hernia,7,0.388,0.201,0.187
+248,41,Nodule,Infiltration,8,0.5683,0.3815,0.1869
+270,28,Fibrosis,Pleural_Thickening,11,0.5642,0.3774,0.1868
+42,70,No Finding,Mass,9,0.5968,0.4103,0.1865
+197,35,Consolidation,Infiltration,8,0.5676,0.3815,0.1862
+380,35,Effusion|Emphysema,Pneumonia,12,0.5187,0.3327,0.1861
+292,35,Edema|Infiltration|Pneumonia,Consolidation,2,0.6363,0.4503,0.186
+212,46,Consolidation|Effusion|Nodule,Atelectasis,0,0.6782,0.4925,0.1858
+277,30,Mass|Pleural_Thickening|Pneumothorax,Nodule,10,0.5698,0.3841,0.1858
+386,69,Consolidation|Emphysema,Nodule,10,0.5698,0.3841,0.1858
+188,46,Atelectasis|Edema|Infiltration,Consolidation,2,0.636,0.4503,0.1858
+103,70,No Finding,Nodule,10,0.5696,0.3841,0.1855
+26,80,No Finding,Fibrosis,6,0.6094,0.4242,0.1852
+390,46,Edema|Pneumonia,Infiltration,8,0.5664,0.3815,0.185
+235,41,Mass,Pleural_Thickening,11,0.5623,0.3774,0.1849
+425,28,Edema|Pneumonia,Consolidation,2,0.6352,0.4503,0.1849
+222,30,Pneumothorax,Atelectasis,0,0.6768,0.4925,0.1843
+268,17,Atelectasis|Pneumothorax,Pleural_Thickening,11,0.5613,0.3774,0.1839
+400,28,Edema|Effusion,Consolidation,2,0.6341,0.4503,0.1838
+77,57,Infiltration,Cardiomegaly,1,0.6284,0.4452,0.1832
+60,35,Atelectasis|Infiltration,Mass,9,0.5935,0.4103,0.1832
+293,46,Mass,Fibrosis,6,0.6073,0.4242,0.1831
+196,28,Atelectasis,Pneumonia,12,0.5156,0.3327,0.1829
+194,30,Effusion|Infiltration,Emphysema,5,0.5765,0.3938,0.1827
+302,30,Atelectasis|Effusion|Pneumothorax,Pneumonia,12,0.5153,0.3327,0.1826
+51,46,Fibrosis|Mass,Pleural_Thickening,11,0.5596,0.3774,0.1822
+188,46,Atelectasis|Edema|Infiltration,Pneumonia,12,0.5148,0.3327,0.1821
+110,17,No Finding,Cardiomegaly,1,0.6273,0.4452,0.182
+262,41,Mass,Pleural_Thickening,11,0.5588,0.3774,0.1815
+306,41,Edema|Effusion|Infiltration,Mass,9,0.5914,0.4103,0.1811
+423,46,Edema|Infiltration|Pneumonia,Nodule,10,0.5652,0.3841,0.1811
+111,57,No Finding,Hernia,7,0.382,0.201,0.181
+42,70,No Finding,Nodule,10,0.565,0.3841,0.1809
+150,41,Infiltration|Mass,Nodule,10,0.565,0.3841,0.1809
+65,30,No Finding,Atelectasis,0,0.6732,0.4925,0.1808
+296,37,Cardiomegaly,Edema,3,0.4971,0.3164,0.1807
+109,57,Nodule,Mass,9,0.5905,0.4103,0.1802
+28,14,No Finding,Nodule,10,0.5642,0.3841,0.1801
+340,69,Emphysema,Nodule,10,0.5637,0.3841,0.1797
+33,57,No Finding,Pneumonia,12,0.5116,0.3327,0.1789
+121,57,No Finding,Fibrosis,6,0.6026,0.4242,0.1784
+129,17,No Finding,Nodule,10,0.5624,0.3841,0.1783
+43,37,No Finding,Fibrosis,6,0.602,0.4242,0.1778
+264,41,Fibrosis|Infiltration,Pneumonia,12,0.5105,0.3327,0.1778
+393,35,Cardiomegaly,Mass,9,0.588,0.4103,0.1776
+272,35,Pneumothorax,Mass,9,0.5875,0.4103,0.1772
+217,46,Emphysema,Pleural_Thickening,11,0.5542,0.3774,0.1768
+222,30,Pneumothorax,Pleural_Thickening,11,0.5542,0.3774,0.1768
+168,69,Effusion|Nodule,Infiltration,8,0.5581,0.3815,0.1767
+371,37,Atelectasis|Emphysema|Pneumothorax,Edema,3,0.493,0.3164,0.1766
+138,35,Emphysema|Pneumothorax,Mass,9,0.5869,0.4103,0.1766
+346,30,Edema,Mass,9,0.5868,0.4103,0.1765
+165,30,Infiltration,Consolidation,2,0.6267,0.4503,0.1764
+230,41,Consolidation|Mass,Edema,3,0.4927,0.3164,0.1763
+182,35,Pleural_Thickening,Nodule,10,0.5601,0.3841,0.176
+10,57,No Finding,Hernia,7,0.3768,0.201,0.1758
+320,41,Nodule,Fibrosis,6,0.5996,0.4242,0.1754
+406,30,Edema|Infiltration,Mass,9,0.5856,0.4103,0.1753
+258,46,Atelectasis|Consolidation|Effusion,Edema,3,0.4916,0.3164,0.1752
+256,57,Pneumothorax,Effusion,4,0.6741,0.4991,0.175
+314,41,Consolidation,Mass,9,0.5852,0.4103,0.1749
+308,69,Atelectasis|Effusion|Pleural_Thickening,Nodule,10,0.5583,0.3841,0.1742
+155,57,Infiltration,Pleural_Thickening,11,0.5516,0.3774,0.1742
+150,41,Infiltration|Mass,Atelectasis,0,0.6666,0.4925,0.1742
+61,46,No Finding,Edema,3,0.4903,0.3164,0.1739
+423,46,Edema|Infiltration|Pneumonia,Mass,9,0.5841,0.4103,0.1738
+304,30,Effusion|Pneumonia,Atelectasis,0,0.6662,0.4925,0.1737
+331,57,Consolidation|Effusion,Mass,9,0.5839,0.4103,0.1736
+145,69,Infiltration,Cardiomegaly,1,0.6186,0.4452,0.1734
+75,46,No Finding,Effusion,4,0.6723,0.4991,0.1732
+282,57,Pneumothorax,Effusion,4,0.672,0.4991,0.1729
+371,37,Atelectasis|Emphysema|Pneumothorax,Mass,9,0.5829,0.4103,0.1725
+147,46,Mass,Infiltration,8,0.5538,0.3815,0.1723
+253,46,Edema|Infiltration,Effusion,4,0.6713,0.4991,0.1722
+378,69,Atelectasis|Pneumonia,Fibrosis,6,0.5964,0.4242,0.1722
+169,41,Effusion,Consolidation,2,0.6225,0.4503,0.1722
+60,35,Atelectasis|Infiltration,Pleural_Thickening,11,0.5495,0.3774,0.1721
+159,69,Effusion|Infiltration,Atelectasis,0,0.6641,0.4925,0.1717
+269,57,Mass,Pneumonia,12,0.5044,0.3327,0.1717
+408,37,Atelectasis|Edema|Effusion|Infiltration,Consolidation,2,0.6217,0.4503,0.1715
+96,57,No Finding,Mass,9,0.5818,0.4103,0.1714
+162,69,Consolidation|Edema|Infiltration,Pneumonia,12,0.5037,0.3327,0.171
+164,35,Effusion|Infiltration,Pneumonia,12,0.5037,0.3327,0.171
+123,28,No Finding,Pneumonia,12,0.5035,0.3327,0.1709
+40,57,Atelectasis,Emphysema,5,0.5644,0.3938,0.1706
+161,57,Effusion,Pleural_Thickening,11,0.5478,0.3774,0.1705
+426,35,Fibrosis,Infiltration,8,0.5517,0.3815,0.1702
+50,37,Edema,Consolidation,2,0.6204,0.4503,0.1701
+272,35,Pneumothorax,Fibrosis,6,0.5941,0.4242,0.17
+269,57,Mass,Pleural_Thickening,11,0.5474,0.3774,0.17
+170,41,Fibrosis,Nodule,10,0.5538,0.3841,0.1697
+321,41,Pleural_Thickening,Nodule,10,0.5536,0.3841,0.1695
+135,57,Effusion|Mass,Nodule,10,0.5534,0.3841,0.1693
+132,41,Atelectasis|Effusion|Pneumothorax,Mass,9,0.5796,0.4103,0.1693
+14,37,Nodule,Consolidation,2,0.6196,0.4503,0.1693
+59,41,No Finding,Pneumonia,12,0.5015,0.3327,0.1689
+191,46,Atelectasis,Effusion,4,0.668,0.4991,0.1689
+89,46,No Finding,Cardiomegaly,1,0.6141,0.4452,0.1688
+299,80,Atelectasis|Consolidation|Effusion|Fibrosis,Mass,9,0.5784,0.4103,0.1681
+234,37,Infiltration|Nodule,Mass,9,0.5784,0.4103,0.1681
+61,46,No Finding,Infiltration,8,0.5492,0.3815,0.1677
+339,37,Mass|Nodule|Pleural_Thickening,Pneumonia,12,0.5,0.3327,0.1673
+212,46,Consolidation|Effusion|Nodule,Mass,9,0.5773,0.4103,0.167
+49,46,No Finding,Hernia,7,0.368,0.201,0.167
+128,69,Atelectasis|Effusion|Pleural_Thickening,Emphysema,5,0.5607,0.3938,0.1669
+290,57,Edema,Infiltration,8,0.5478,0.3815,0.1664
+231,57,Consolidation,Mass,9,0.5764,0.4103,0.1661
+30,70,Nodule,Mass,9,0.5761,0.4103,0.1658
+52,69,No Finding,Fibrosis,6,0.5896,0.4242,0.1655
+25,57,No Finding,Mass,9,0.5755,0.4103,0.1652
+398,35,Atelectasis|Fibrosis,Mass,9,0.5755,0.4103,0.1651
+359,28,Edema,Infiltration,8,0.5465,0.3815,0.1651
+65,30,No Finding,Fibrosis,6,0.5891,0.4242,0.1649
+250,41,Infiltration|Nodule,Pneumonia,12,0.4974,0.3327,0.1648
+310,69,Mass,Nodule,10,0.5489,0.3841,0.1648
+304,30,Effusion|Pneumonia,Pleural_Thickening,11,0.542,0.3774,0.1646
+139,70,Infiltration|Pleural_Thickening,Mass,9,0.5748,0.4103,0.1645
+147,46,Mass,Pneumonia,12,0.497,0.3327,0.1643
+17,14,No Finding,Pneumonia,12,0.4967,0.3327,0.164
+407,57,Atelectasis|Consolidation|Effusion|Emphysema|Infiltration|Mass,Pleural_Thickening,11,0.5409,0.3774,0.1635
+211,57,Effusion,Consolidation,2,0.6133,0.4503,0.1631
+190,35,Pneumothorax,Mass,9,0.5734,0.4103,0.1631
+249,30,Atelectasis|Effusion|Infiltration|Pneumothorax,Consolidation,2,0.6133,0.4503,0.1631
+315,57,Nodule|Pleural_Thickening|Pneumonia,Mass,9,0.5734,0.4103,0.1631
+144,35,Atelectasis|Consolidation,Infiltration,8,0.5445,0.3815,0.163
+223,70,Pneumothorax,Nodule,10,0.5468,0.3841,0.1627
+98,69,Effusion,Pleural_Thickening,11,0.5397,0.3774,0.1623
+35,46,Nodule,Cardiomegaly,1,0.6075,0.4452,0.1622
+15,70,Infiltration|Nodule,Mass,9,0.5721,0.4103,0.1617
+222,30,Pneumothorax,Effusion,4,0.6607,0.4991,0.1616
+84,57,No Finding,Mass,9,0.5719,0.4103,0.1616
+50,37,Edema,Mass,9,0.5711,0.4103,0.1608
+85,2,Consolidation,Cardiomegaly,1,0.606,0.4452,0.1608
+128,69,Atelectasis|Effusion|Pleural_Thickening,Nodule,10,0.5447,0.3841,0.1606
+416,70,Hernia|Infiltration,Atelectasis,0,0.6531,0.4925,0.1606
+139,70,Infiltration|Pleural_Thickening,Nodule,10,0.5444,0.3841,0.1604
+279,46,Effusion|Pneumothorax,Pleural_Thickening,11,0.5377,0.3774,0.1604
+64,69,Infiltration,Fibrosis,6,0.5843,0.4242,0.1601
+49,46,No Finding,Pneumonia,12,0.4925,0.3327,0.1598
+289,35,Nodule,Consolidation,2,0.6098,0.4503,0.1595
+276,46,Infiltration|Nodule,Consolidation,2,0.6092,0.4503,0.159
+37,30,No Finding,Mass,9,0.5692,0.4103,0.1589
+118,35,No Finding,Emphysema,5,0.5526,0.3938,0.1588
+136,57,No Finding,Nodule,10,0.5429,0.3841,0.1588
+391,17,Cardiomegaly,Pneumonia,12,0.4905,0.3327,0.1579
+257,57,Pneumothorax,Mass,9,0.5681,0.4103,0.1578
+258,46,Atelectasis|Consolidation|Effusion,Mass,9,0.568,0.4103,0.1577
+101,57,Infiltration,Consolidation,2,0.6079,0.4503,0.1576
+426,35,Fibrosis,Emphysema,5,0.5509,0.3938,0.1571
+42,70,No Finding,Hernia,7,0.358,0.201,0.157
+352,14,Cardiomegaly|Effusion|Pneumonia,Edema,3,0.4733,0.3164,0.1569
+338,30,Effusion|Pleural_Thickening|Pneumothorax,Nodule,10,0.5408,0.3841,0.1567
+339,37,Mass|Nodule|Pleural_Thickening,Fibrosis,6,0.5808,0.4242,0.1567
+382,57,Edema|Infiltration,Atelectasis,0,0.6488,0.4925,0.1563
+242,41,Effusion|Pneumothorax,Atelectasis,0,0.6486,0.4925,0.1561
+227,57,Atelectasis|Mass,Pleural_Thickening,11,0.5335,0.3774,0.1561
+432,80,Atelectasis|Effusion|Pneumonia,Edema,3,0.4723,0.3164,0.1559
+12,6,No Finding,Cardiomegaly,1,0.6009,0.4452,0.1557
+159,69,Effusion|Infiltration,Consolidation,2,0.6059,0.4503,0.1556
+393,35,Cardiomegaly,Nodule,10,0.5394,0.3841,0.1553
+178,57,Infiltration,Atelectasis,0,0.6475,0.4925,0.155
+76,30,Infiltration,Mass,9,0.5652,0.4103,0.1549
+133,70,No Finding,Mass,9,0.5652,0.4103,0.1549
+79,35,Infiltration,Nodule,10,0.5386,0.3841,0.1545
+342,46,Consolidation,Atelectasis,0,0.6469,0.4925,0.1544
+252,28,Atelectasis|Nodule,Pneumonia,12,0.487,0.3327,0.1543
+301,30,Infiltration|Nodule,Pneumonia,12,0.4867,0.3327,0.154
+256,57,Pneumothorax,Mass,9,0.5642,0.4103,0.1539
+161,57,Effusion,Fibrosis,6,0.5776,0.4242,0.1534
+1,70,Emphysema|Mass,Pneumothorax,13,0.7517,0.5985,0.1532
+62,6,No Finding,Edema,3,0.4697,0.3164,0.1532
+293,46,Mass,Emphysema,5,0.5467,0.3938,0.1529
+401,35,Emphysema,Pneumonia,12,0.4853,0.3327,0.1526
+30,70,Nodule,Fibrosis,6,0.5767,0.4242,0.1526
+280,69,Consolidation|Effusion,Pneumonia,12,0.4848,0.3327,0.1521
+429,57,Infiltration|Pneumonia,Mass,9,0.5623,0.4103,0.152
+23,6,No Finding,Pneumothorax,13,0.7504,0.5985,0.1519
+208,30,Atelectasis,Effusion,4,0.6509,0.4991,0.1518
+165,30,Infiltration,Edema,3,0.4675,0.3164,0.1511
+431,69,Infiltration|Mass|Pneumonia,Atelectasis,0,0.6433,0.4925,0.1508
+274,70,Effusion|Infiltration|Pneumothorax,Pneumonia,12,0.4835,0.3327,0.1508
+307,57,Emphysema|Pneumothorax,Mass,9,0.561,0.4103,0.1507
+174,28,Infiltration,Fibrosis,6,0.5748,0.4242,0.1507
+173,46,Effusion,Mass,9,0.5609,0.4103,0.1505
+21,57,No Finding,Nodule,10,0.5344,0.3841,0.1504
+242,41,Effusion|Pneumothorax,Consolidation,2,0.6006,0.4503,0.1503
+209,17,Pneumothorax,Emphysema,5,0.5436,0.3938,0.1498
+369,57,Emphysema|Infiltration,Effusion,4,0.6489,0.4991,0.1498
+410,57,Emphysema|Pneumothorax,Pleural_Thickening,11,0.5272,0.3774,0.1498
+370,28,Atelectasis|Edema,Cardiomegaly,1,0.5946,0.4452,0.1494
+260,46,Consolidation|Infiltration,Nodule,10,0.5332,0.3841,0.1491
+160,70,Pneumothorax,Consolidation,2,0.5993,0.4503,0.149
+100,57,No Finding,Fibrosis,6,0.5731,0.4242,0.1489
+178,57,Infiltration,Mass,9,0.5589,0.4103,0.1486
+384,30,Cardiomegaly,Infiltration,8,0.5299,0.3815,0.1485
+299,80,Atelectasis|Consolidation|Effusion|Fibrosis,Hernia,7,0.3494,0.201,0.1484
+329,37,Atelectasis|Consolidation|Effusion|Infiltration,Mass,9,0.5586,0.4103,0.1483
+49,46,No Finding,Effusion,4,0.6474,0.4991,0.1483
+410,57,Emphysema|Pneumothorax,Atelectasis,0,0.6407,0.4925,0.1482
+149,14,Infiltration,Nodule,10,0.5317,0.3841,0.1476
+20,41,Atelectasis|Effusion|Infiltration,Consolidation,2,0.5979,0.4503,0.1476
+218,70,Atelectasis,Pleural_Thickening,11,0.5245,0.3774,0.1471
+334,46,Cardiomegaly|Infiltration,Atelectasis,0,0.6395,0.4925,0.147
+413,37,Nodule|Pneumonia,Fibrosis,6,0.5709,0.4242,0.1468
+172,69,Pneumonia,Nodule,10,0.5309,0.3841,0.1468
+277,30,Mass|Pleural_Thickening|Pneumothorax,Consolidation,2,0.5966,0.4503,0.1463
+54,46,Infiltration,Consolidation,2,0.5964,0.4503,0.1461
+56,46,No Finding,Mass,9,0.5562,0.4103,0.1459
+381,57,Edema|Infiltration|Nodule,Mass,9,0.556,0.4103,0.1457
+43,37,No Finding,Nodule,10,0.5297,0.3841,0.1456
+91,69,No Finding,Fibrosis,6,0.5696,0.4242,0.1455
+338,30,Effusion|Pleural_Thickening|Pneumothorax,Consolidation,2,0.5958,0.4503,0.1455
+326,17,Atelectasis|Consolidation|Effusion,Infiltration,8,0.5269,0.3815,0.1454
+269,57,Mass,Fibrosis,6,0.5692,0.4242,0.1451
+320,41,Nodule,Pleural_Thickening,11,0.5224,0.3774,0.145
+204,37,Nodule,Pneumonia,12,0.4772,0.3327,0.1445
+326,17,Atelectasis|Consolidation|Effusion,Mass,9,0.5547,0.4103,0.1444
+230,41,Consolidation|Mass,Effusion,4,0.6432,0.4991,0.1441
+115,28,No Finding,Atelectasis,0,0.6365,0.4925,0.144
+319,69,Pleural_Thickening,Mass,9,0.5542,0.4103,0.1439
+349,14,Consolidation|Infiltration,Effusion,4,0.643,0.4991,0.1439
+244,46,Atelectasis|Effusion|Pneumothorax,Consolidation,2,0.5939,0.4503,0.1437
+122,35,No Finding,Cardiomegaly,1,0.5886,0.4452,0.1434
+7,57,No Finding,Pneumonia,12,0.4754,0.3327,0.1428
+266,41,Consolidation,Effusion,4,0.6419,0.4991,0.1428
+166,57,Effusion|Pneumothorax,Pneumonia,12,0.475,0.3327,0.1424
+305,69,Mass,Pleural_Thickening,11,0.5194,0.3774,0.142
+29,70,Effusion,Atelectasis,0,0.6343,0.4925,0.1419
+309,41,Cardiomegaly|Effusion|Infiltration,Nodule,10,0.5257,0.3841,0.1417
+288,57,Edema|Effusion|Infiltration,Pneumonia,12,0.4744,0.3327,0.1417
+182,35,Pleural_Thickening,Pneumonia,12,0.4743,0.3327,0.1416
+260,46,Consolidation|Infiltration,Pneumonia,12,0.4743,0.3327,0.1416
+261,28,Nodule,Infiltration,8,0.5229,0.3815,0.1415
+291,46,Emphysema|Infiltration|Pneumothorax,Edema,3,0.4576,0.3164,0.1412
+210,70,Atelectasis|Pneumothorax,Hernia,7,0.3421,0.201,0.1411
+180,35,Emphysema|Mass|Pleural_Thickening,Pneumothorax,13,0.7393,0.5985,0.1408
+21,57,No Finding,Mass,9,0.5511,0.4103,0.1408
+405,57,Edema|Infiltration,Consolidation,2,0.5908,0.4503,0.1405
+228,70,Pneumothorax,Atelectasis,0,0.6326,0.4925,0.1401
+79,35,Infiltration,Mass,9,0.5503,0.4103,0.14
+61,46,No Finding,Pneumothorax,13,0.7384,0.5985,0.1398
+405,57,Edema|Infiltration,Mass,9,0.5501,0.4103,0.1397
+302,30,Atelectasis|Effusion|Pneumothorax,Mass,9,0.5498,0.4103,0.1395
+62,6,No Finding,Consolidation,2,0.5897,0.4503,0.1394
+274,70,Effusion|Infiltration|Pneumothorax,Atelectasis,0,0.6315,0.4925,0.139
+180,35,Emphysema|Mass|Pleural_Thickening,Consolidation,2,0.5891,0.4503,0.1389
+328,30,Edema|Infiltration,Fibrosis,6,0.563,0.4242,0.1389
+401,35,Emphysema,Mass,9,0.5489,0.4103,0.1385
+282,57,Pneumothorax,Pleural_Thickening,11,0.5159,0.3774,0.1385
+244,46,Atelectasis|Effusion|Pneumothorax,Pneumonia,12,0.471,0.3327,0.1383
+253,46,Edema|Infiltration,Pneumonia,12,0.4705,0.3327,0.1378
+430,14,Infiltration|Pneumonia,Mass,9,0.548,0.4103,0.1377
+159,69,Effusion|Infiltration,Mass,9,0.5481,0.4103,0.1377
+1,70,Emphysema|Mass,Fibrosis,6,0.5617,0.4242,0.1376
+72,69,No Finding,Nodule,10,0.5217,0.3841,0.1376
+317,46,Atelectasis|Effusion|Infiltration|Pneumothorax,Fibrosis,6,0.5616,0.4242,0.1374
+283,46,Effusion|Fibrosis|Pneumothorax,Consolidation,2,0.5876,0.4503,0.1373
+116,6,No Finding,Cardiomegaly,1,0.5825,0.4452,0.1373
+407,57,Atelectasis|Consolidation|Effusion|Emphysema|Infiltration|Mass,Cardiomegaly,1,0.5823,0.4452,0.1371
+332,41,Atelectasis|Effusion|Emphysema,Fibrosis,6,0.5611,0.4242,0.137
+228,70,Pneumothorax,Emphysema,5,0.5307,0.3938,0.1369
+7,57,No Finding,Infiltration,8,0.5183,0.3815,0.1368
+357,28,Atelectasis|Consolidation|Effusion|Mass,Infiltration,8,0.5182,0.3815,0.1368
+190,35,Pneumothorax,Pleural_Thickening,11,0.5136,0.3774,0.1362
+194,30,Effusion|Infiltration,Pneumothorax,13,0.7346,0.5985,0.1361
+225,57,Edema,Mass,9,0.546,0.4103,0.1357
+382,57,Edema|Infiltration,Cardiomegaly,1,0.5809,0.4452,0.1357
+228,70,Pneumothorax,Effusion,4,0.6347,0.4991,0.1356
+51,46,Fibrosis|Mass,Nodule,10,0.5196,0.3841,0.1355
+97,14,No Finding,Emphysema,5,0.5292,0.3938,0.1354
+92,41,Infiltration,Consolidation,2,0.5856,0.4503,0.1353
+38,57,Cardiomegaly,Hernia,7,0.3362,0.201,0.1352
+396,35,Emphysema|Pneumothorax,Consolidation,2,0.5851,0.4503,0.1348
+47,28,Atelectasis,Infiltration,8,0.5161,0.3815,0.1347
+95,57,Emphysema,Fibrosis,6,0.5581,0.4242,0.134
+10,57,No Finding,Nodule,10,0.5179,0.3841,0.1338
+431,69,Infiltration|Mass|Pneumonia,Nodule,10,0.5178,0.3841,0.1338
+130,70,Effusion,Mass,9,0.5439,0.4103,0.1336
+116,6,No Finding,Mass,9,0.5439,0.4103,0.1335
+87,41,Atelectasis|Effusion,Pneumothorax,13,0.7317,0.5985,0.1332
+183,46,Consolidation|Nodule,Atelectasis,0,0.6256,0.4925,0.1331
+104,46,No Finding,Hernia,7,0.334,0.201,0.133
+423,46,Edema|Infiltration|Pneumonia,Consolidation,2,0.5833,0.4503,0.133
+305,69,Mass,Pneumothorax,13,0.7313,0.5985,0.1328
+2,28,Atelectasis,Effusion,4,0.6319,0.4991,0.1328
+30,70,Nodule,Emphysema,5,0.5266,0.3938,0.1328
+34,46,No Finding,Nodule,10,0.5165,0.3841,0.1324
+0,70,No Finding,Mass,9,0.5427,0.4103,0.1323
+310,69,Mass,Fibrosis,6,0.5563,0.4242,0.1322
+360,46,Cardiomegaly,Edema,3,0.4486,0.3164,0.1322
+95,57,Emphysema,Mass,9,0.5422,0.4103,0.1319
+100,57,No Finding,Nodule,10,0.5158,0.3841,0.1317
+162,69,Consolidation|Edema|Infiltration,Mass,9,0.542,0.4103,0.1316
+150,41,Infiltration|Mass,Edema,3,0.4479,0.3164,0.1315
+359,28,Edema,Pneumonia,12,0.4642,0.3327,0.1315
+226,30,Atelectasis|Mass,Pneumonia,12,0.4639,0.3327,0.1313
+333,35,Effusion|Emphysema,Infiltration,8,0.5126,0.3815,0.1312
+379,30,Atelectasis|Consolidation|Pneumonia,Nodule,10,0.5152,0.3841,0.1311
+161,57,Effusion,Nodule,10,0.515,0.3841,0.1309
+320,41,Nodule,Hernia,7,0.3314,0.201,0.1304
+410,57,Emphysema|Pneumothorax,Consolidation,2,0.5805,0.4503,0.1303
+105,37,Edema|Mass,Nodule,10,0.5139,0.3841,0.1299
+143,57,Atelectasis|Effusion,Cardiomegaly,1,0.575,0.4452,0.1298
+262,41,Mass,Fibrosis,6,0.5537,0.4242,0.1296
+14,37,Nodule,Emphysema,5,0.5231,0.3938,0.1293
+40,57,Atelectasis,Hernia,7,0.3303,0.201,0.1293
+260,46,Consolidation|Infiltration,Edema,3,0.4456,0.3164,0.1292
+273,30,Cardiomegaly|Effusion,Pleural_Thickening,11,0.5065,0.3774,0.1291
+69,41,Atelectasis|Effusion,Consolidation,2,0.5792,0.4503,0.1289
+68,57,No Finding,Edema,3,0.4452,0.3164,0.1288
+324,30,Cardiomegaly,Infiltration,8,0.5101,0.3815,0.1287
+240,80,Atelectasis|Consolidation|Effusion,Infiltration,8,0.5095,0.3815,0.1281
+82,37,No Finding,Pneumonia,12,0.4606,0.3327,0.128
+21,57,No Finding,Hernia,7,0.329,0.201,0.128
+15,70,Infiltration|Nodule,Consolidation,2,0.5782,0.4503,0.1279
+362,35,Cardiomegaly,Infiltration,8,0.5093,0.3815,0.1279
+70,57,No Finding,Cardiomegaly,1,0.573,0.4452,0.1278
+75,46,No Finding,Mass,9,0.5378,0.4103,0.1275
+40,57,Atelectasis,Pleural_Thickening,11,0.5049,0.3774,0.1275
+337,35,Pleural_Thickening,Nodule,10,0.5113,0.3841,0.1272
+255,17,Infiltration|Mass|Nodule|Pleural_Thickening,Pneumonia,12,0.4596,0.3327,0.127
+259,14,Consolidation|Infiltration,Effusion,4,0.626,0.4991,0.1269
+291,46,Emphysema|Infiltration|Pneumothorax,Nodule,10,0.5109,0.3841,0.1268
+116,6,No Finding,Nodule,10,0.5109,0.3841,0.1268
+32,46,Effusion,Nodule,10,0.5107,0.3841,0.1267
+419,41,Effusion|Infiltration|Pneumonia,Consolidation,2,0.5769,0.4503,0.1267
+123,28,No Finding,Consolidation,2,0.5768,0.4503,0.1265
+228,70,Pneumothorax,Hernia,7,0.3274,0.201,0.1264
+75,46,No Finding,Edema,3,0.4427,0.3164,0.1263
+284,69,Atelectasis|Pneumothorax,Pleural_Thickening,11,0.5035,0.3774,0.1261
+150,41,Infiltration|Mass,Consolidation,2,0.5761,0.4503,0.1258
+116,6,No Finding,Pneumonia,12,0.4584,0.3327,0.1257
+138,35,Emphysema|Pneumothorax,Hernia,7,0.3265,0.201,0.1255
+381,57,Edema|Infiltration|Nodule,Effusion,4,0.6245,0.4991,0.1254
+327,69,Pneumothorax,Emphysema,5,0.5187,0.3938,0.1249
+85,2,Consolidation,Pneumothorax,13,0.7233,0.5985,0.1248
+346,30,Edema,Cardiomegaly,1,0.5698,0.4452,0.1246
+289,35,Nodule,Mass,9,0.5347,0.4103,0.1244
+83,70,No Finding,Consolidation,2,0.5746,0.4503,0.1243
+373,17,Effusion|Infiltration|Pleural_Thickening,Pneumonia,12,0.4566,0.3327,0.1239
+72,69,No Finding,Fibrosis,6,0.5479,0.4242,0.1238
+255,17,Infiltration|Mass|Nodule|Pleural_Thickening,Effusion,4,0.6229,0.4991,0.1238
+43,37,No Finding,Pneumonia,12,0.4564,0.3327,0.1237
+125,46,No Finding,Nodule,10,0.5077,0.3841,0.1236
+209,17,Pneumothorax,Infiltration,8,0.505,0.3815,0.1235
+237,57,Emphysema|Infiltration|Mass,Consolidation,2,0.5738,0.4503,0.1235
+160,70,Pneumothorax,Mass,9,0.5337,0.4103,0.1234
+229,30,Cardiomegaly,Pneumonia,12,0.456,0.3327,0.1233
+122,35,No Finding,Pneumonia,12,0.456,0.3327,0.1233
+151,70,Effusion,Atelectasis,0,0.6152,0.4925,0.1228
+406,30,Edema|Infiltration,Pneumonia,12,0.4552,0.3327,0.1226
+220,35,Fibrosis,Mass,9,0.5327,0.4103,0.1224
+170,41,Fibrosis,Edema,3,0.4381,0.3164,0.1217
+414,46,Fibrosis,Nodule,10,0.5058,0.3841,0.1217
+5,37,Effusion,Atelectasis,0,0.614,0.4925,0.1215
+293,46,Mass,Pneumothorax,13,0.72,0.5985,0.1215
+263,46,Cardiomegaly,Nodule,10,0.5054,0.3841,0.1214
+337,35,Pleural_Thickening,Fibrosis,6,0.5453,0.4242,0.1212
+198,57,Atelectasis,Pleural_Thickening,11,0.4985,0.3774,0.1211
+197,35,Consolidation,Pneumothorax,13,0.7192,0.5985,0.1206
+12,6,No Finding,Nodule,10,0.5046,0.3841,0.1205
+114,57,Mass,Consolidation,2,0.5706,0.4503,0.1203
+372,57,Effusion|Fibrosis,Atelectasis,0,0.6127,0.4925,0.1202
+326,17,Atelectasis|Consolidation|Effusion,Pneumonia,12,0.4527,0.3327,0.1201
+389,28,Edema|Infiltration|Pleural_Thickening,Emphysema,5,0.5138,0.3938,0.12
+409,69,Emphysema,Pneumothorax,13,0.7185,0.5985,0.12
+228,70,Pneumothorax,Consolidation,2,0.5702,0.4503,0.1199
+76,30,Infiltration,Pleural_Thickening,11,0.4971,0.3774,0.1197
+52,69,No Finding,Nodule,10,0.5037,0.3841,0.1197
+273,30,Cardiomegaly|Effusion,Infiltration,8,0.5011,0.3815,0.1197
+65,30,No Finding,Pneumothorax,13,0.718,0.5985,0.1195
+257,57,Pneumothorax,Effusion,4,0.6186,0.4991,0.1195
+64,69,Infiltration,Pneumonia,12,0.4521,0.3327,0.1194
+64,69,Infiltration,Hernia,7,0.3202,0.201,0.1192
+416,70,Hernia|Infiltration,Cardiomegaly,1,0.5643,0.4452,0.1191
+115,28,No Finding,Edema,3,0.4354,0.3164,0.119
+171,57,Cardiomegaly,Nodule,10,0.5027,0.3841,0.1186
+362,35,Cardiomegaly,Edema,3,0.4349,0.3164,0.1185
+321,41,Pleural_Thickening,Consolidation,2,0.5682,0.4503,0.1179
+351,46,Atelectasis|Effusion|Pleural_Thickening,Cardiomegaly,1,0.5631,0.4452,0.1179
+418,46,Fibrosis,Mass,9,0.528,0.4103,0.1177
+107,70,No Finding,Nodule,10,0.5014,0.3841,0.1173
+27,41,Atelectasis|Cardiomegaly|Effusion|Infiltration,Pneumonia,12,0.4498,0.3327,0.1171
+244,46,Atelectasis|Effusion|Pneumothorax,Edema,3,0.4334,0.3164,0.117
+70,57,No Finding,Pneumonia,12,0.4493,0.3327,0.1166
+97,14,No Finding,Pleural_Thickening,11,0.4938,0.3774,0.1164
+362,35,Cardiomegaly,Atelectasis,0,0.6087,0.4925,0.1162
+292,35,Edema|Infiltration|Pneumonia,Cardiomegaly,1,0.5614,0.4452,0.1162
+223,70,Pneumothorax,Pneumonia,12,0.4488,0.3327,0.1161
+105,37,Edema|Mass,Pneumothorax,13,0.7145,0.5985,0.1159
+261,28,Nodule,Atelectasis,0,0.6083,0.4925,0.1159
+420,57,Edema|Infiltration|Pneumonia,Consolidation,2,0.5662,0.4503,0.1159
+153,2,Infiltration,Pneumonia,12,0.4484,0.3327,0.1157
+341,28,Cardiomegaly|Effusion|Infiltration|Nodule,Atelectasis,0,0.608,0.4925,0.1156
+72,69,No Finding,Pneumonia,12,0.4481,0.3327,0.1154
+353,41,Fibrosis|Infiltration,Mass,9,0.5257,0.4103,0.1154
+121,57,No Finding,Emphysema,5,0.5091,0.3938,0.1153
+58,28,Atelectasis|Effusion|Emphysema,Edema,3,0.4316,0.3164,0.1152
+428,70,Fibrosis|Nodule,Pleural_Thickening,11,0.4926,0.3774,0.1152
+298,69,Fibrosis|Infiltration,Pneumonia,12,0.4475,0.3327,0.1148
+408,37,Atelectasis|Edema|Effusion|Infiltration,Mass,9,0.5251,0.4103,0.1148
+336,17,Consolidation,Infiltration,8,0.4961,0.3815,0.1146
+65,30,No Finding,Effusion,4,0.6136,0.4991,0.1145
+87,41,Atelectasis|Effusion,Mass,9,0.5245,0.4103,0.1142
+73,30,No Finding,Mass,9,0.5244,0.4103,0.114
+219,57,Fibrosis,Pneumonia,12,0.4465,0.3327,0.1139
+400,28,Edema|Effusion,Pleural_Thickening,11,0.4908,0.3774,0.1134
+167,35,Effusion|Nodule|Pleural_Thickening,Edema,3,0.4297,0.3164,0.1133
+247,41,Pneumothorax,Emphysema,5,0.507,0.3938,0.1132
+0,70,No Finding,Hernia,7,0.3141,0.201,0.1131
+27,41,Atelectasis|Cardiomegaly|Effusion|Infiltration,Pleural_Thickening,11,0.4901,0.3774,0.1127
+1,70,Emphysema|Mass,Nodule,10,0.4968,0.3841,0.1127
+13,46,Effusion,Mass,9,0.5228,0.4103,0.1125
+39,14,No Finding,Infiltration,8,0.4936,0.3815,0.1122
+255,17,Infiltration|Mass|Nodule|Pleural_Thickening,Fibrosis,6,0.5364,0.4242,0.1122
+138,35,Emphysema|Pneumothorax,Pneumonia,12,0.4448,0.3327,0.1121
+213,35,Effusion|Pleural_Thickening,Mass,9,0.5221,0.4103,0.1118
+380,35,Effusion|Emphysema,Infiltration,8,0.4931,0.3815,0.1117
+16,46,Atelectasis,Nodule,10,0.4957,0.3841,0.1116
+158,80,Effusion,Mass,9,0.5219,0.4103,0.1116
+285,35,Consolidation|Infiltration,Edema,3,0.4279,0.3164,0.1115
+317,46,Atelectasis|Effusion|Infiltration|Pneumothorax,Pleural_Thickening,11,0.4887,0.3774,0.1113
+105,37,Edema|Mass,Emphysema,5,0.5049,0.3938,0.1111
+41,46,Edema|Infiltration|Mass,Effusion,4,0.6102,0.4991,0.1111
+416,70,Hernia|Infiltration,Consolidation,2,0.5613,0.4503,0.111
+8,35,Effusion,Atelectasis,0,0.6035,0.4925,0.111
+8,35,Effusion,Fibrosis,6,0.535,0.4242,0.1109
+416,70,Hernia|Infiltration,Mass,9,0.5211,0.4103,0.1108
+272,35,Pneumothorax,Nodule,10,0.4949,0.3841,0.1108
+350,30,Fibrosis|Pleural_Thickening,Consolidation,2,0.5609,0.4503,0.1106
+293,46,Mass,Pneumonia,12,0.4431,0.3327,0.1104
+115,28,No Finding,Nodule,10,0.4945,0.3841,0.1104
+105,37,Edema|Mass,Pleural_Thickening,11,0.4876,0.3774,0.1103
+353,41,Fibrosis|Infiltration,Nodule,10,0.4941,0.3841,0.1101
+133,70,No Finding,Nodule,10,0.4941,0.3841,0.11
+61,46,No Finding,Consolidation,2,0.5602,0.4503,0.11
+166,57,Effusion|Pneumothorax,Cardiomegaly,1,0.5551,0.4452,0.1099
+326,17,Atelectasis|Consolidation|Effusion,Edema,3,0.4262,0.3164,0.1098
+366,57,Atelectasis|Cardiomegaly|Effusion|Mass,Hernia,7,0.3106,0.201,0.1096
+87,41,Atelectasis|Effusion,Consolidation,2,0.5598,0.4503,0.1095
+421,14,Infiltration|Pneumonia,Effusion,4,0.6083,0.4991,0.1092
+287,80,Cardiomegaly|Effusion,Consolidation,2,0.5591,0.4503,0.1088
+325,28,Pneumothorax,Pneumonia,12,0.4413,0.3327,0.1086
+176,80,Effusion|Infiltration,Consolidation,2,0.5588,0.4503,0.1085
+157,46,Emphysema,Nodule,10,0.4925,0.3841,0.1084
+26,80,No Finding,Consolidation,2,0.5585,0.4503,0.1083
+164,35,Effusion|Infiltration,Edema,3,0.4245,0.3164,0.1081
+298,69,Fibrosis|Infiltration,Consolidation,2,0.558,0.4503,0.1077
+338,30,Effusion|Pleural_Thickening|Pneumothorax,Mass,9,0.5175,0.4103,0.1072
+131,28,No Finding,Pleural_Thickening,11,0.4842,0.3774,0.1068
+357,28,Atelectasis|Consolidation|Effusion|Mass,Pneumonia,12,0.439,0.3327,0.1063
+102,28,Atelectasis|Cardiomegaly,Pneumonia,12,0.4388,0.3327,0.1062
+23,6,No Finding,Pleural_Thickening,11,0.4834,0.3774,0.1061
+28,14,No Finding,Infiltration,8,0.4872,0.3815,0.1058
+50,37,Edema,Atelectasis,0,0.5978,0.4925,0.1053
+425,28,Edema|Pneumonia,Mass,9,0.5156,0.4103,0.1053
+402,41,Atelectasis|Emphysema,Pneumothorax,13,0.7038,0.5985,0.1053
+185,41,Pneumonia|Pneumothorax,Pleural_Thickening,11,0.4826,0.3774,0.1052
+161,57,Effusion,Mass,9,0.5155,0.4103,0.1051
+64,69,Infiltration,Nodule,10,0.489,0.3841,0.105
+78,37,No Finding,Nodule,10,0.489,0.3841,0.1049
+288,57,Edema|Effusion|Infiltration,Consolidation,2,0.5551,0.4503,0.1048
+119,35,Atelectasis|Pneumonia,Pleural_Thickening,11,0.4822,0.3774,0.1048
+94,57,Atelectasis|Mass,Nodule,10,0.4882,0.3841,0.1041
+6,46,Cardiomegaly|Edema|Effusion,Nodule,10,0.4882,0.3841,0.1041
+103,70,No Finding,Cardiomegaly,1,0.5491,0.4452,0.1039
+24,70,Cardiomegaly,Mass,9,0.5137,0.4103,0.1034
+24,70,Cardiomegaly,Nodule,10,0.4872,0.3841,0.1031
+122,35,No Finding,Mass,9,0.5134,0.4103,0.1031
+332,41,Atelectasis|Effusion|Emphysema,Pleural_Thickening,11,0.4805,0.3774,0.1031
+367,37,Effusion|Emphysema|Pleural_Thickening|Pneumothorax,Hernia,7,0.304,0.201,0.103
+138,35,Emphysema|Pneumothorax,Nodule,10,0.4871,0.3841,0.103
+181,37,Infiltration,Mass,9,0.5129,0.4103,0.1026
+204,37,Nodule,Fibrosis,6,0.5267,0.4242,0.1025
+253,46,Edema|Infiltration,Atelectasis,0,0.5949,0.4925,0.1024
+179,57,Atelectasis,Effusion,4,0.6015,0.4991,0.1024
+148,41,Effusion|Mass,Pneumothorax,13,0.7008,0.5985,0.1022
+93,70,Atelectasis,Pleural_Thickening,11,0.4796,0.3774,0.1022
+343,70,Consolidation|Edema|Infiltration,Cardiomegaly,1,0.5474,0.4452,0.1022
+220,35,Fibrosis,Pneumonia,12,0.4347,0.3327,0.102
+431,69,Infiltration|Mass|Pneumonia,Consolidation,2,0.5523,0.4503,0.102
+201,37,Cardiomegaly|Infiltration,Consolidation,2,0.5521,0.4503,0.1019
+297,69,Fibrosis|Pleural_Thickening,Nodule,10,0.4859,0.3841,0.1018
+258,46,Atelectasis|Consolidation|Effusion,Cardiomegaly,1,0.5469,0.4452,0.1017
+107,70,No Finding,Pleural_Thickening,11,0.4791,0.3774,0.1017
+378,69,Atelectasis|Pneumonia,Pleural_Thickening,11,0.4788,0.3774,0.1014
+8,35,Effusion,Nodule,10,0.4855,0.3841,0.1014
+327,69,Pneumothorax,Nodule,10,0.4854,0.3841,0.1013
+194,30,Effusion|Infiltration,Nodule,10,0.4852,0.3841,0.1011
+175,30,Atelectasis|Effusion|Mass,Infiltration,8,0.4825,0.3815,0.1011
+280,69,Consolidation|Effusion,Emphysema,5,0.4947,0.3938,0.1009
+135,57,Effusion|Mass,Pleural_Thickening,11,0.4783,0.3774,0.1009
+107,70,No Finding,Mass,9,0.5112,0.4103,0.1008
+290,57,Edema,Consolidation,2,0.5511,0.4503,0.1008
+4,57,No Finding,Pleural_Thickening,11,0.4778,0.3774,0.1005
+342,46,Consolidation,Effusion,4,0.5995,0.4991,0.1004
+140,69,No Finding,Mass,9,0.5106,0.4103,0.1003
+421,14,Infiltration|Pneumonia,Consolidation,2,0.5505,0.4503,0.1003
+327,69,Pneumothorax,Fibrosis,6,0.5244,0.4242,0.1002
+182,35,Pleural_Thickening,Pneumothorax,13,0.6987,0.5985,0.1002
+110,17,No Finding,Infiltration,8,0.4817,0.3815,0.1002
+395,46,Edema|Infiltration,Consolidation,2,0.5504,0.4503,0.1001
+224,35,Effusion|Emphysema,Infiltration,8,0.4814,0.3815,0.1
+332,41,Atelectasis|Effusion|Emphysema,Mass,9,0.5101,0.4103,0.0998
+266,41,Consolidation,Infiltration,8,0.4809,0.3815,0.0995
+115,28,No Finding,Consolidation,2,0.5497,0.4503,0.0994
+258,46,Atelectasis|Consolidation|Effusion,Pneumonia,12,0.4321,0.3327,0.0994
+321,41,Pleural_Thickening,Effusion,4,0.5983,0.4991,0.0992
+130,70,Effusion,Fibrosis,6,0.523,0.4242,0.0989
+275,69,Mass,Consolidation,2,0.5489,0.4503,0.0986
+401,35,Emphysema,Effusion,4,0.5976,0.4991,0.0986
+256,57,Pneumothorax,Consolidation,2,0.5488,0.4503,0.0985
+215,28,Edema|Effusion|Pneumonia,Mass,9,0.5085,0.4103,0.0982
+180,35,Emphysema|Mass|Pleural_Thickening,Infiltration,8,0.4795,0.3815,0.0981
+290,57,Edema,Mass,9,0.5083,0.4103,0.0979
+431,69,Infiltration|Mass|Pneumonia,Emphysema,5,0.4916,0.3938,0.0978
+259,14,Consolidation|Infiltration,Atelectasis,0,0.5901,0.4925,0.0977
+380,35,Effusion|Emphysema,Pleural_Thickening,11,0.4751,0.3774,0.0977
+365,37,Edema,Pneumonia,12,0.4297,0.3327,0.0971
+318,28,Atelectasis|Nodule,Cardiomegaly,1,0.5423,0.4452,0.0971
+433,80,Hernia,Emphysema,5,0.4908,0.3938,0.097
+128,69,Atelectasis|Effusion|Pleural_Thickening,Hernia,7,0.2979,0.201,0.0969
+268,17,Atelectasis|Pneumothorax,Consolidation,2,0.5471,0.4503,0.0968
+287,80,Cardiomegaly|Effusion,Pleural_Thickening,11,0.474,0.3774,0.0966
+400,28,Edema|Effusion,Mass,9,0.5067,0.4103,0.0964
+47,28,Atelectasis,Edema,3,0.4126,0.3164,0.0962
+164,35,Effusion|Infiltration,Atelectasis,0,0.5886,0.4925,0.0961
+321,41,Pleural_Thickening,Emphysema,5,0.4898,0.3938,0.096
+380,35,Effusion|Emphysema,Consolidation,2,0.5462,0.4503,0.0959
+396,35,Emphysema|Pneumothorax,Pleural_Thickening,11,0.4733,0.3774,0.0959
+143,57,Atelectasis|Effusion,Pneumothorax,13,0.6944,0.5985,0.0959
+350,30,Fibrosis|Pleural_Thickening,Cardiomegaly,1,0.5408,0.4452,0.0956
+396,35,Emphysema|Pneumothorax,Mass,9,0.5058,0.4103,0.0954
+316,46,Atelectasis|Consolidation|Infiltration|Nodule,Effusion,4,0.5943,0.4991,0.0952
+423,46,Edema|Infiltration|Pneumonia,Fibrosis,6,0.5194,0.4242,0.0952
+121,57,No Finding,Pneumonia,12,0.4279,0.3327,0.0952
+273,30,Cardiomegaly|Effusion,Mass,9,0.5053,0.4103,0.095
+78,37,No Finding,Pneumonia,12,0.4276,0.3327,0.0949
+228,70,Pneumothorax,Pneumonia,12,0.4275,0.3327,0.0948
+45,69,No Finding,Pneumonia,12,0.4274,0.3327,0.0947
+246,70,Mass|Pleural_Thickening,Pneumonia,12,0.4272,0.3327,0.0946
+273,30,Cardiomegaly|Effusion,Pneumonia,12,0.4271,0.3327,0.0945
+85,2,Consolidation,Emphysema,5,0.4882,0.3938,0.0944
+219,57,Fibrosis,Mass,9,0.5047,0.4103,0.0944
+200,57,Effusion,Fibrosis,6,0.5184,0.4242,0.0942
+415,30,Atelectasis|Infiltration|Pneumonia,Mass,9,0.5042,0.4103,0.0939
+250,41,Infiltration|Nodule,Edema,3,0.4101,0.3164,0.0937
+8,35,Effusion,Pneumonia,12,0.4262,0.3327,0.0935
+6,46,Cardiomegaly|Edema|Effusion,Mass,9,0.5037,0.4103,0.0934
+96,57,No Finding,Pneumonia,12,0.426,0.3327,0.0933
+345,14,Consolidation,Pneumothorax,13,0.6915,0.5985,0.093
+105,37,Edema|Mass,Atelectasis,0,0.5855,0.4925,0.093
+154,30,Effusion,Pneumothorax,13,0.6911,0.5985,0.0926
+266,41,Consolidation,Pneumothorax,13,0.691,0.5985,0.0925
+393,35,Cardiomegaly,Effusion,4,0.5913,0.4991,0.0922
+63,35,Infiltration,Fibrosis,6,0.5162,0.4242,0.0921
+322,69,Emphysema,Pneumothorax,13,0.6905,0.5985,0.092
+139,70,Infiltration|Pleural_Thickening,Atelectasis,0,0.584,0.4925,0.0916
+19,46,Consolidation,Pneumonia,12,0.424,0.3327,0.0914
+75,46,No Finding,Fibrosis,6,0.5156,0.4242,0.0914
+104,46,No Finding,Nodule,10,0.4754,0.3841,0.0913
+209,17,Pneumothorax,Cardiomegaly,1,0.5365,0.4452,0.0913
+28,14,No Finding,Pneumonia,12,0.4237,0.3327,0.0911
+154,30,Effusion,Pneumonia,12,0.4237,0.3327,0.091
+5,37,Effusion,Pneumonia,12,0.4236,0.3327,0.0909
+197,35,Consolidation,Nodule,10,0.4748,0.3841,0.0908
+305,69,Mass,Fibrosis,6,0.5148,0.4242,0.0907
+238,41,Edema,Pleural_Thickening,11,0.4678,0.3774,0.0904
+151,70,Effusion,Mass,9,0.5004,0.4103,0.0901
+146,46,Effusion,Edema,3,0.4065,0.3164,0.0901
+314,41,Consolidation,Atelectasis,0,0.5825,0.4925,0.09
+304,30,Effusion|Pneumonia,Consolidation,2,0.5399,0.4503,0.0896
+243,69,Atelectasis|Consolidation|Mass,Nodule,10,0.4735,0.3841,0.0895
+20,41,Atelectasis|Effusion|Infiltration,Nodule,10,0.4735,0.3841,0.0894
+304,30,Effusion|Pneumonia,Hernia,7,0.2903,0.201,0.0893
+82,37,No Finding,Infiltration,8,0.4707,0.3815,0.0892
+300,28,Infiltration|Mass,Pneumonia,12,0.4216,0.3327,0.0889
+198,57,Atelectasis,Cardiomegaly,1,0.534,0.4452,0.0888
+165,30,Infiltration,Effusion,4,0.5877,0.4991,0.0886
+268,17,Atelectasis|Pneumothorax,Infiltration,8,0.4699,0.3815,0.0884
+22,69,No Finding,Mass,9,0.4986,0.4103,0.0883
+83,70,No Finding,Mass,9,0.4987,0.4103,0.0883
+189,69,Atelectasis,Nodule,10,0.4724,0.3841,0.0883
+37,30,No Finding,Nodule,10,0.4719,0.3841,0.0879
+307,57,Emphysema|Pneumothorax,Effusion,4,0.5868,0.4991,0.0877
+211,57,Effusion,Mass,9,0.498,0.4103,0.0877
+104,46,No Finding,Mass,9,0.4979,0.4103,0.0875
+33,57,No Finding,Pleural_Thickening,11,0.4648,0.3774,0.0874
+242,41,Effusion|Pneumothorax,Emphysema,5,0.4808,0.3938,0.087
+250,41,Infiltration|Nodule,Pleural_Thickening,11,0.4642,0.3774,0.0868
+290,57,Edema,Atelectasis,0,0.5791,0.4925,0.0866
+168,69,Effusion|Nodule,Pneumonia,12,0.4193,0.3327,0.0866
+209,17,Pneumothorax,Pneumonia,12,0.4189,0.3327,0.0863
+52,69,No Finding,Pneumonia,12,0.419,0.3327,0.0863
+98,69,Effusion,Infiltration,8,0.4677,0.3815,0.0862
+337,35,Pleural_Thickening,Effusion,4,0.585,0.4991,0.0859
+266,41,Consolidation,Edema,3,0.4023,0.3164,0.0859
+41,46,Edema|Infiltration|Mass,Pleural_Thickening,11,0.4631,0.3774,0.0857
+59,41,No Finding,Infiltration,8,0.4672,0.3815,0.0857
+367,37,Effusion|Emphysema|Pleural_Thickening|Pneumothorax,Cardiomegaly,1,0.5309,0.4452,0.0857
+411,80,Cardiomegaly|Pneumonia,Mass,9,0.4958,0.4103,0.0855
+93,70,Atelectasis,Nodule,10,0.4695,0.3841,0.0854
+420,57,Edema|Infiltration|Pneumonia,Effusion,4,0.5845,0.4991,0.0854
+427,57,Fibrosis,Mass,9,0.4958,0.4103,0.0854
+211,57,Effusion,Atelectasis,0,0.5779,0.4925,0.0854
+133,70,No Finding,Fibrosis,6,0.5095,0.4242,0.0853
+61,46,No Finding,Atelectasis,0,0.5777,0.4925,0.0852
+287,80,Cardiomegaly|Effusion,Fibrosis,6,0.5092,0.4242,0.085
+121,57,No Finding,Mass,9,0.4952,0.4103,0.0849
+264,41,Fibrosis|Infiltration,Pleural_Thickening,11,0.4622,0.3774,0.0849
+65,30,No Finding,Mass,9,0.4949,0.4103,0.0846
+31,37,Pneumothorax,Hernia,7,0.2855,0.201,0.0845
+372,57,Effusion|Fibrosis,Mass,9,0.4948,0.4103,0.0845
+290,57,Edema,Cardiomegaly,1,0.5295,0.4452,0.0843
+161,57,Effusion,Pneumothorax,13,0.6827,0.5985,0.0842
+425,28,Edema|Pneumonia,Effusion,4,0.5833,0.4991,0.0842
+141,28,Edema|Infiltration,Nodule,10,0.4681,0.3841,0.084
+235,41,Mass,Nodule,10,0.468,0.3841,0.084
+397,35,Effusion|Mass|Pneumonia,Consolidation,2,0.5341,0.4503,0.0838
+41,46,Edema|Infiltration|Mass,Fibrosis,6,0.5077,0.4242,0.0835
+114,57,Mass,Pneumothorax,13,0.6819,0.5985,0.0834
+216,30,Infiltration|Pleural_Thickening,Pneumonia,12,0.4158,0.3327,0.0832
+283,46,Effusion|Fibrosis|Pneumothorax,Pleural_Thickening,11,0.4605,0.3774,0.0831
+216,30,Infiltration|Pleural_Thickening,Nodule,10,0.467,0.3841,0.0829
+36,35,Pneumothorax,Fibrosis,6,0.5065,0.4242,0.0824
+26,80,No Finding,Pleural_Thickening,11,0.4593,0.3774,0.0819
+222,30,Pneumothorax,Mass,9,0.4921,0.4103,0.0817
+330,30,Infiltration|Pneumothorax,Nodule,10,0.4653,0.3841,0.0813
+382,57,Edema|Infiltration,Pneumonia,12,0.4139,0.3327,0.0812
+394,70,Fibrosis,Pleural_Thickening,11,0.4585,0.3774,0.0811
+103,70,No Finding,Mass,9,0.4913,0.4103,0.081
+48,46,No Finding,Pleural_Thickening,11,0.4583,0.3774,0.0809
+302,30,Atelectasis|Effusion|Pneumothorax,Consolidation,2,0.5307,0.4503,0.0805
+359,28,Edema,Effusion,4,0.5792,0.4991,0.0801
+265,57,Mass,Nodule,10,0.4642,0.3841,0.0801
+314,41,Consolidation,Pneumothorax,13,0.6786,0.5985,0.0801
+165,30,Infiltration,Emphysema,5,0.4737,0.3938,0.0799
+239,28,Effusion|Infiltration|Nodule,Atelectasis,0,0.5723,0.4925,0.0798
+433,80,Hernia,Pleural_Thickening,11,0.457,0.3774,0.0797
+121,57,No Finding,Pleural_Thickening,11,0.4571,0.3774,0.0797
+49,46,No Finding,Consolidation,2,0.5296,0.4503,0.0793
+5,37,Effusion,Consolidation,2,0.5292,0.4503,0.0789
+146,46,Effusion,Nodule,10,0.4629,0.3841,0.0789
+112,57,Atelectasis|Nodule,Mass,9,0.4891,0.4103,0.0788
+302,30,Atelectasis|Effusion|Pneumothorax,Pleural_Thickening,11,0.4559,0.3774,0.0786
+191,46,Atelectasis,Pneumonia,12,0.4111,0.3327,0.0785
+179,57,Atelectasis,Nodule,10,0.4625,0.3841,0.0784
+183,46,Consolidation|Nodule,Mass,9,0.4887,0.4103,0.0784
+280,69,Consolidation|Effusion,Pleural_Thickening,11,0.4556,0.3774,0.0782
+203,57,Nodule,Pneumonia,12,0.4105,0.3327,0.0778
+47,28,Atelectasis,Mass,9,0.4879,0.4103,0.0776
+413,37,Nodule|Pneumonia,Infiltration,8,0.459,0.3815,0.0776
+323,70,Atelectasis|Consolidation,Effusion,4,0.5767,0.4991,0.0776
+246,70,Mass|Pleural_Thickening,Pneumothorax,13,0.6759,0.5985,0.0774
+320,41,Nodule,Mass,9,0.4875,0.4103,0.0772
+278,46,Atelectasis|Consolidation,Mass,9,0.4874,0.4103,0.0771
+139,70,Infiltration|Pleural_Thickening,Pneumonia,12,0.4096,0.3327,0.077
+353,41,Fibrosis|Infiltration,Pleural_Thickening,11,0.4539,0.3774,0.0765
+218,70,Atelectasis,Emphysema,5,0.4702,0.3938,0.0764
+113,46,No Finding,Infiltration,8,0.4576,0.3815,0.0762
+8,35,Effusion,Consolidation,2,0.5263,0.4503,0.076
+244,46,Atelectasis|Effusion|Pneumothorax,Infiltration,8,0.4572,0.3815,0.0758
+396,35,Emphysema|Pneumothorax,Atelectasis,0,0.5677,0.4925,0.0752
+81,57,No Finding,Hernia,7,0.2761,0.201,0.0751
+61,46,No Finding,Emphysema,5,0.4686,0.3938,0.0748
+233,70,Mass,Cardiomegaly,1,0.5198,0.4452,0.0746
+174,28,Infiltration,Mass,9,0.4849,0.4103,0.0745
+41,46,Edema|Infiltration|Mass,Atelectasis,0,0.5669,0.4925,0.0744
+404,30,Edema,Pleural_Thickening,11,0.4517,0.3774,0.0743
+291,46,Emphysema|Infiltration|Pneumothorax,Pneumonia,12,0.407,0.3327,0.0743
+296,37,Cardiomegaly,Nodule,10,0.4583,0.3841,0.0743
+290,57,Edema,Effusion,4,0.5732,0.4991,0.0741
+323,70,Atelectasis|Consolidation,Mass,9,0.4844,0.4103,0.0741
+127,57,No Finding,Mass,9,0.4844,0.4103,0.074
+295,37,Mass,Fibrosis,6,0.4979,0.4242,0.0737
+187,70,Edema,Pneumonia,12,0.4063,0.3327,0.0737
+101,57,Infiltration,Pleural_Thickening,11,0.451,0.3774,0.0736
+251,28,Pneumonia,Pleural_Thickening,11,0.4509,0.3774,0.0735
+86,46,No Finding,Fibrosis,6,0.4976,0.4242,0.0735
+424,17,Infiltration|Pneumonia,Consolidation,2,0.5238,0.4503,0.0735
+403,30,Atelectasis|Consolidation|Emphysema,Nodule,10,0.4573,0.3841,0.0732
+344,35,Emphysema|Infiltration,Atelectasis,0,0.5656,0.4925,0.0731
+29,70,Effusion,Pleural_Thickening,11,0.4505,0.3774,0.0731
+355,28,Cardiomegaly|Effusion,Pneumothorax,13,0.6713,0.5985,0.0728
+216,30,Infiltration|Pleural_Thickening,Fibrosis,6,0.497,0.4242,0.0728
+265,57,Mass,Pleural_Thickening,11,0.4502,0.3774,0.0728
+194,30,Effusion|Infiltration,Pleural_Thickening,11,0.4501,0.3774,0.0727
+411,80,Cardiomegaly|Pneumonia,Hernia,7,0.2735,0.201,0.0725
+178,57,Infiltration,Nodule,10,0.4563,0.3841,0.0722
+84,57,No Finding,Hernia,7,0.2732,0.201,0.0722
+208,30,Atelectasis,Pneumonia,12,0.4048,0.3327,0.0722
+221,46,Atelectasis,Consolidation,2,0.5225,0.4503,0.0722
+200,57,Effusion,Pneumothorax,13,0.6706,0.5985,0.0721
+93,70,Atelectasis,Emphysema,5,0.4657,0.3938,0.0719
+323,70,Atelectasis|Consolidation,Fibrosis,6,0.496,0.4242,0.0719
+169,41,Effusion,Pleural_Thickening,11,0.4493,0.3774,0.0719
+329,37,Atelectasis|Consolidation|Effusion|Infiltration,Hernia,7,0.2727,0.201,0.0717
+147,46,Mass,Cardiomegaly,1,0.5168,0.4452,0.0716
+120,41,Infiltration|Nodule,Consolidation,2,0.5218,0.4503,0.0715
+358,35,Cardiomegaly|Effusion,Atelectasis,0,0.564,0.4925,0.0715
+301,30,Infiltration|Nodule,Mass,9,0.4816,0.4103,0.0713
+406,30,Edema|Infiltration,Nodule,10,0.4551,0.3841,0.0711
+113,46,No Finding,Pneumonia,12,0.4037,0.3327,0.071
+195,80,Atelectasis|Cardiomegaly,Edema,3,0.3874,0.3164,0.0709
+168,69,Effusion|Nodule,Emphysema,5,0.4646,0.3938,0.0708
+370,28,Atelectasis|Edema,Nodule,10,0.4543,0.3841,0.0702
+338,30,Effusion|Pleural_Thickening|Pneumothorax,Atelectasis,0,0.5625,0.4925,0.0701
+418,46,Fibrosis,Pneumonia,12,0.4027,0.3327,0.07
+61,46,No Finding,Effusion,4,0.569,0.4991,0.0699
+158,80,Effusion,Pneumonia,12,0.4026,0.3327,0.0699
+137,17,No Finding,Nodule,10,0.4539,0.3841,0.0698
+279,46,Effusion|Pneumothorax,Infiltration,8,0.4511,0.3815,0.0697
+114,57,Mass,Pneumonia,12,0.4022,0.3327,0.0695
+5,37,Effusion,Infiltration,8,0.4509,0.3815,0.0695
+95,57,Emphysema,Pleural_Thickening,11,0.4461,0.3774,0.0687
+7,57,No Finding,Consolidation,2,0.519,0.4503,0.0687
+212,46,Consolidation|Effusion|Nodule,Cardiomegaly,1,0.5133,0.4452,0.0681
+18,41,No Finding,Nodule,10,0.4521,0.3841,0.068
+258,46,Atelectasis|Consolidation|Effusion,Infiltration,8,0.4489,0.3815,0.0674
+391,17,Cardiomegaly,Infiltration,8,0.4488,0.3815,0.0673
+355,28,Cardiomegaly|Effusion,Nodule,10,0.4512,0.3841,0.0672
+352,14,Cardiomegaly|Effusion|Pneumonia,Infiltration,8,0.4484,0.3815,0.0669
+395,46,Edema|Infiltration,Mass,9,0.477,0.4103,0.0667
+414,46,Fibrosis,Pleural_Thickening,11,0.444,0.3774,0.0666
+122,35,No Finding,Hernia,7,0.2673,0.201,0.0663
+323,70,Atelectasis|Consolidation,Emphysema,5,0.4598,0.3938,0.066
+162,69,Consolidation|Edema|Infiltration,Emphysema,5,0.4598,0.3938,0.066
+214,57,Nodule|Pleural_Thickening,Pneumothorax,13,0.6642,0.5985,0.0657
+408,37,Atelectasis|Edema|Effusion|Infiltration,Nodule,10,0.4495,0.3841,0.0655
+259,14,Consolidation|Infiltration,Cardiomegaly,1,0.5106,0.4452,0.0654
+8,35,Effusion,Mass,9,0.4756,0.4103,0.0653
+186,35,Emphysema,Nodule,10,0.4493,0.3841,0.0652
+176,80,Effusion|Infiltration,Edema,3,0.3816,0.3164,0.0652
+351,46,Atelectasis|Effusion|Pleural_Thickening,Emphysema,5,0.4589,0.3938,0.0651
+147,46,Mass,Nodule,10,0.449,0.3841,0.065
+265,57,Mass,Emphysema,5,0.4587,0.3938,0.0649
+405,57,Edema|Infiltration,Pneumonia,12,0.3976,0.3327,0.0649
+234,37,Infiltration|Nodule,Pleural_Thickening,11,0.4422,0.3774,0.0648
+68,57,No Finding,Pneumonia,12,0.3974,0.3327,0.0647
+179,57,Atelectasis,Mass,9,0.4749,0.4103,0.0646
+185,41,Pneumonia|Pneumothorax,Mass,9,0.4748,0.4103,0.0645
+10,57,No Finding,Atelectasis,0,0.557,0.4925,0.0645
+51,46,Fibrosis|Mass,Pneumonia,12,0.3971,0.3327,0.0644
+278,46,Atelectasis|Consolidation,Pleural_Thickening,11,0.4416,0.3774,0.0642
+237,57,Emphysema|Infiltration|Mass,Nodule,10,0.4483,0.3841,0.0642
+327,69,Pneumothorax,Pleural_Thickening,11,0.4414,0.3774,0.064
+56,46,No Finding,Infiltration,8,0.4454,0.3815,0.0639
+30,70,Nodule,Pneumonia,12,0.3966,0.3327,0.0639
+242,41,Effusion|Pneumothorax,Infiltration,8,0.4453,0.3815,0.0639
+118,35,No Finding,Hernia,7,0.2647,0.201,0.0637
+334,46,Cardiomegaly|Infiltration,Consolidation,2,0.5137,0.4503,0.0635
+114,57,Mass,Fibrosis,6,0.4873,0.4242,0.0631
+77,57,Infiltration,Nodule,10,0.4472,0.3841,0.0631
+88,41,Atelectasis|Consolidation|Mass|Pneumothorax,Edema,3,0.379,0.3164,0.0626
+191,46,Atelectasis,Consolidation,2,0.5127,0.4503,0.0624
+103,70,No Finding,Hernia,7,0.2633,0.201,0.0623
+114,57,Mass,Infiltration,8,0.4438,0.3815,0.0623
+148,41,Effusion|Mass,Emphysema,5,0.4561,0.3938,0.0623
+172,69,Pneumonia,Fibrosis,6,0.4865,0.4242,0.0623
+393,35,Cardiomegaly,Fibrosis,6,0.4864,0.4242,0.0622
+209,17,Pneumothorax,Hernia,7,0.2632,0.201,0.0622
+86,46,No Finding,Pleural_Thickening,11,0.4389,0.3774,0.0616
+127,57,No Finding,Edema,3,0.3773,0.3164,0.0609
+55,30,No Finding,Hernia,7,0.2618,0.201,0.0608
+74,35,No Finding,Edema,3,0.3771,0.3164,0.0607
+303,57,Fibrosis,Nodule,10,0.4446,0.3841,0.0606
+7,57,No Finding,Mass,9,0.4703,0.4103,0.06
+288,57,Edema|Effusion|Infiltration,Mass,9,0.4703,0.4103,0.0599
+332,41,Atelectasis|Effusion|Emphysema,Infiltration,8,0.4412,0.3815,0.0597
+79,35,Infiltration,Fibrosis,6,0.4838,0.4242,0.0597
+19,46,Consolidation,Emphysema,5,0.4534,0.3938,0.0597
+196,28,Atelectasis,Infiltration,8,0.4411,0.3815,0.0596
+36,35,Pneumothorax,Nodule,10,0.4436,0.3841,0.0596
+128,69,Atelectasis|Effusion|Pleural_Thickening,Fibrosis,6,0.4836,0.4242,0.0595
+433,80,Hernia,Fibrosis,6,0.4835,0.4242,0.0593
+313,57,Cardiomegaly|Edema|Effusion,Nodule,10,0.4431,0.3841,0.0591
+319,69,Pleural_Thickening,Nodule,10,0.4431,0.3841,0.059
+233,70,Mass,Nodule,10,0.4431,0.3841,0.059
+318,28,Atelectasis|Nodule,Mass,9,0.4691,0.4103,0.0588
+351,46,Atelectasis|Effusion|Pleural_Thickening,Pneumothorax,13,0.6572,0.5985,0.0587
+333,35,Effusion|Emphysema,Cardiomegaly,1,0.5038,0.4452,0.0586
+116,6,No Finding,Infiltration,8,0.4399,0.3815,0.0585
+183,46,Consolidation|Nodule,Infiltration,8,0.4399,0.3815,0.0584
+140,69,No Finding,Nodule,10,0.4423,0.3841,0.0582
+386,69,Consolidation|Emphysema,Mass,9,0.4685,0.4103,0.0582
+135,57,Effusion|Mass,Edema,3,0.3746,0.3164,0.0582
+118,35,No Finding,Pneumothorax,13,0.6567,0.5985,0.0582
+302,30,Atelectasis|Effusion|Pneumothorax,Infiltration,8,0.4396,0.3815,0.0581
+417,57,Infiltration|Pneumonia,Mass,9,0.4684,0.4103,0.0581
+397,35,Effusion|Mass|Pneumonia,Infiltration,8,0.4394,0.3815,0.058
+224,35,Effusion|Emphysema,Mass,9,0.4681,0.4103,0.0577
+246,70,Mass|Pleural_Thickening,Atelectasis,0,0.5499,0.4925,0.0574
+182,35,Pleural_Thickening,Mass,9,0.4676,0.4103,0.0573
+236,28,Atelectasis|Emphysema,Nodule,10,0.4412,0.3841,0.0571
+299,80,Atelectasis|Consolidation|Effusion|Fibrosis,Cardiomegaly,1,0.5022,0.4452,0.057
+339,37,Mass|Nodule|Pleural_Thickening,Infiltration,8,0.4385,0.3815,0.057
+96,57,No Finding,Fibrosis,6,0.4812,0.4242,0.057
+53,41,Infiltration,Nodule,10,0.441,0.3841,0.0569
+135,57,Effusion|Mass,Infiltration,8,0.4382,0.3815,0.0568
+293,46,Mass,Atelectasis,0,0.5492,0.4925,0.0567
+268,17,Atelectasis|Pneumothorax,Pneumonia,12,0.3893,0.3327,0.0566
+311,28,Mass,Infiltration,8,0.4379,0.3815,0.0565
+102,28,Atelectasis|Cardiomegaly,Edema,3,0.3728,0.3164,0.0564
+226,30,Atelectasis|Mass,Effusion,4,0.5554,0.4991,0.0563
+63,35,Infiltration,Pleural_Thickening,11,0.4336,0.3774,0.0562
+63,35,Infiltration,Consolidation,2,0.5062,0.4503,0.0559
+23,6,No Finding,Pneumonia,12,0.3886,0.3327,0.0559
+279,46,Effusion|Pneumothorax,Fibrosis,6,0.4794,0.4242,0.0553
+159,69,Effusion|Infiltration,Nodule,10,0.4393,0.3841,0.0552
+254,37,Fibrosis|Infiltration,Mass,9,0.4655,0.4103,0.0552
+345,14,Consolidation,Edema,3,0.3716,0.3164,0.0552
+409,69,Emphysema,Pleural_Thickening,11,0.4325,0.3774,0.0551
+375,69,Emphysema,Pneumothorax,13,0.6534,0.5985,0.0549
+135,57,Effusion|Mass,Cardiomegaly,1,0.5,0.4452,0.0548
+90,46,Atelectasis|Infiltration,Pneumothorax,13,0.6532,0.5985,0.0547
+316,46,Atelectasis|Consolidation|Infiltration|Nodule,Emphysema,5,0.4481,0.3938,0.0543
+171,57,Cardiomegaly,Pleural_Thickening,11,0.4316,0.3774,0.0542
+10,57,No Finding,Pleural_Thickening,11,0.4316,0.3774,0.0542
+231,57,Consolidation,Atelectasis,0,0.5465,0.4925,0.054
+23,6,No Finding,Cardiomegaly,1,0.4991,0.4452,0.0539
+144,35,Atelectasis|Consolidation,Pneumonia,12,0.3866,0.3327,0.0539
+114,57,Mass,Emphysema,5,0.4475,0.3938,0.0537
+433,80,Hernia,Consolidation,2,0.5038,0.4503,0.0536
+61,46,No Finding,Nodule,10,0.4376,0.3841,0.0535
+32,46,Effusion,Fibrosis,6,0.4772,0.4242,0.053
+48,46,No Finding,Fibrosis,6,0.477,0.4242,0.0529
+16,46,Atelectasis,Pleural_Thickening,11,0.4303,0.3774,0.0529
+380,35,Effusion|Emphysema,Hernia,7,0.2539,0.201,0.0529
+185,41,Pneumonia|Pneumothorax,Cardiomegaly,1,0.4977,0.4452,0.0525
+6,46,Cardiomegaly|Edema|Effusion,Infiltration,8,0.434,0.3815,0.0525
+266,41,Consolidation,Pneumonia,12,0.3851,0.3327,0.0524
+18,41,No Finding,Mass,9,0.4627,0.4103,0.0524
+73,30,No Finding,Pneumonia,12,0.3851,0.3327,0.0524
+246,70,Mass|Pleural_Thickening,Infiltration,8,0.4336,0.3815,0.0522
+415,30,Atelectasis|Infiltration|Pneumonia,Edema,3,0.3685,0.3164,0.0521
+36,35,Pneumothorax,Pneumonia,12,0.3848,0.3327,0.0521
+97,14,No Finding,Pneumothorax,13,0.6505,0.5985,0.052
+96,57,No Finding,Nodule,10,0.436,0.3841,0.0519
+61,46,No Finding,Mass,9,0.4619,0.4103,0.0516
+261,28,Nodule,Effusion,4,0.5507,0.4991,0.0516
+209,17,Pneumothorax,Pleural_Thickening,11,0.4288,0.3774,0.0514
+374,57,Cardiomegaly|Effusion|Emphysema|Mass,Atelectasis,0,0.5437,0.4925,0.0512
+169,41,Effusion,Nodule,10,0.4348,0.3841,0.0507
+98,69,Effusion,Consolidation,2,0.5009,0.4503,0.0506
+73,30,No Finding,Cardiomegaly,1,0.4956,0.4452,0.0504
+154,30,Effusion,Consolidation,2,0.5006,0.4503,0.0503
+409,69,Emphysema,Mass,9,0.4604,0.4103,0.0501
+196,28,Atelectasis,Cardiomegaly,1,0.4952,0.4452,0.05
+287,80,Cardiomegaly|Effusion,Nodule,10,0.434,0.3841,0.05
+221,46,Atelectasis,Nodule,10,0.434,0.3841,0.0499
+221,46,Atelectasis,Mass,9,0.4602,0.4103,0.0499
+417,57,Infiltration|Pneumonia,Emphysema,5,0.4434,0.3938,0.0496
+411,80,Cardiomegaly|Pneumonia,Nodule,10,0.4332,0.3841,0.0492
+144,35,Atelectasis|Consolidation,Edema,3,0.3656,0.3164,0.0492
+76,30,Infiltration,Emphysema,5,0.4428,0.3938,0.049
+49,46,No Finding,Infiltration,8,0.4305,0.3815,0.049
+169,41,Effusion,Pneumonia,12,0.3815,0.3327,0.0488
+228,70,Pneumothorax,Fibrosis,6,0.4725,0.4242,0.0483
+314,41,Consolidation,Infiltration,8,0.4296,0.3815,0.0482
+292,35,Edema|Infiltration|Pneumonia,Nodule,10,0.4321,0.3841,0.0481
+345,14,Consolidation,Pneumonia,12,0.3808,0.3327,0.0481
+47,28,Atelectasis,Pneumonia,12,0.3807,0.3327,0.048
+334,46,Cardiomegaly|Infiltration,Effusion,4,0.5469,0.4991,0.0478
+306,41,Edema|Effusion|Infiltration,Consolidation,2,0.4981,0.4503,0.0478
+358,35,Cardiomegaly|Effusion,Pleural_Thickening,11,0.425,0.3774,0.0476
+17,14,No Finding,Edema,3,0.3639,0.3164,0.0475
+17,14,No Finding,Infiltration,8,0.4287,0.3815,0.0473
+95,57,Emphysema,Effusion,4,0.546,0.4991,0.047
+212,46,Consolidation|Effusion|Nodule,Pleural_Thickening,11,0.4243,0.3774,0.0469
+247,41,Pneumothorax,Pleural_Thickening,11,0.4241,0.3774,0.0467
+211,57,Effusion,Cardiomegaly,1,0.4919,0.4452,0.0467
+245,57,Emphysema|Mass|Pneumothorax,Edema,3,0.363,0.3164,0.0466
+206,37,Consolidation,Nodule,10,0.4304,0.3841,0.0464
+423,46,Edema|Infiltration|Pneumonia,Pneumothorax,13,0.6446,0.5985,0.0461
+399,57,Hernia|Infiltration,Emphysema,5,0.4399,0.3938,0.0461
+272,35,Pneumothorax,Hernia,7,0.2468,0.201,0.0458
+422,57,Atelectasis|Pneumonia,Nodule,10,0.4298,0.3841,0.0457
+199,41,Cardiomegaly,Nodule,10,0.4297,0.3841,0.0456
+78,37,No Finding,Consolidation,2,0.4959,0.4503,0.0456
+322,69,Emphysema,Atelectasis,0,0.5377,0.4925,0.0453
+264,41,Fibrosis|Infiltration,Pneumothorax,13,0.6435,0.5985,0.045
+43,37,No Finding,Mass,9,0.4553,0.4103,0.045
+266,41,Consolidation,Emphysema,5,0.4386,0.3938,0.0448
+258,46,Atelectasis|Consolidation|Effusion,Hernia,7,0.2458,0.201,0.0448
+274,70,Effusion|Infiltration|Pneumothorax,Nodule,10,0.4287,0.3841,0.0446
+9,69,No Finding,Mass,9,0.4549,0.4103,0.0446
+30,70,Nodule,Consolidation,2,0.4948,0.4503,0.0445
+47,28,Atelectasis,Effusion,4,0.5434,0.4991,0.0444
+354,57,Consolidation,Effusion,4,0.5433,0.4991,0.0443
+113,46,No Finding,Mass,9,0.4546,0.4103,0.0443
+377,37,Edema,Consolidation,2,0.4944,0.4503,0.0442
+343,70,Consolidation|Edema|Infiltration,Mass,9,0.4544,0.4103,0.0441
+356,46,Emphysema|Infiltration|Mass|Pneumothorax,Atelectasis,0,0.5364,0.4925,0.0439
+275,69,Mass,Atelectasis,0,0.5358,0.4925,0.0434
+70,57,No Finding,Effusion,4,0.5424,0.4991,0.0433
+282,57,Pneumothorax,Mass,9,0.4534,0.4103,0.0431
+272,35,Pneumothorax,Infiltration,8,0.4243,0.3815,0.0429
+9,69,No Finding,Pneumothorax,13,0.6414,0.5985,0.0429
+142,57,Nodule,Pleural_Thickening,11,0.4203,0.3774,0.0429
+312,30,Cardiomegaly,Mass,9,0.4529,0.4103,0.0426
+40,57,Atelectasis,Nodule,10,0.4265,0.3841,0.0425
+368,37,Edema,Nodule,10,0.4262,0.3841,0.0422
+227,57,Atelectasis|Mass,Pneumothorax,13,0.6408,0.5985,0.0422
+205,46,Pneumothorax,Pneumonia,12,0.3747,0.3327,0.0421
+369,57,Emphysema|Infiltration,Pleural_Thickening,11,0.4193,0.3774,0.0419
+210,70,Atelectasis|Pneumothorax,Mass,9,0.4521,0.4103,0.0418
+42,70,No Finding,Pleural_Thickening,11,0.4189,0.3774,0.0416
+330,30,Infiltration|Pneumothorax,Fibrosis,6,0.4657,0.4242,0.0415
+27,41,Atelectasis|Cardiomegaly|Effusion|Infiltration,Hernia,7,0.2424,0.201,0.0414
+230,41,Consolidation|Mass,Hernia,7,0.2422,0.201,0.0412
+288,57,Edema|Effusion|Infiltration,Emphysema,5,0.4349,0.3938,0.0411
+312,30,Cardiomegaly,Nodule,10,0.4249,0.3841,0.0409
+186,35,Emphysema,Pneumonia,12,0.3734,0.3327,0.0408
+365,37,Edema,Mass,9,0.451,0.4103,0.0407
+130,70,Effusion,Cardiomegaly,1,0.4859,0.4452,0.0407
+375,69,Emphysema,Effusion,4,0.5393,0.4991,0.0403
+194,30,Effusion|Infiltration,Atelectasis,0,0.5327,0.4925,0.0402
+174,28,Infiltration,Pleural_Thickening,11,0.4175,0.3774,0.0402
+419,41,Effusion|Infiltration|Pneumonia,Atelectasis,0,0.5326,0.4925,0.0401
+58,28,Atelectasis|Effusion|Emphysema,Infiltration,8,0.4214,0.3815,0.04
+198,57,Atelectasis,Mass,9,0.4504,0.4103,0.04
+47,28,Atelectasis,Consolidation,2,0.4902,0.4503,0.0399
+99,41,Pleural_Thickening|Pneumothorax,Nodule,10,0.4238,0.3841,0.0397
+99,41,Pleural_Thickening|Pneumothorax,Infiltration,8,0.421,0.3815,0.0396
+346,30,Edema,Atelectasis,0,0.5318,0.4925,0.0393
+189,69,Atelectasis,Cardiomegaly,1,0.4842,0.4452,0.039
+165,30,Infiltration,Pleural_Thickening,11,0.4164,0.3774,0.039
+40,57,Atelectasis,Fibrosis,6,0.4632,0.4242,0.039
+31,37,Pneumothorax,Pneumonia,12,0.3715,0.3327,0.0388
+399,57,Hernia|Infiltration,Pleural_Thickening,11,0.4162,0.3774,0.0388
+165,30,Infiltration,Atelectasis,0,0.5311,0.4925,0.0386
+283,46,Effusion|Fibrosis|Pneumothorax,Pneumonia,12,0.3713,0.3327,0.0386
+119,35,Atelectasis|Pneumonia,Mass,9,0.4487,0.4103,0.0384
+132,41,Atelectasis|Effusion|Pneumothorax,Pneumonia,12,0.3706,0.3327,0.0379
+210,70,Atelectasis|Pneumothorax,Pneumonia,12,0.3706,0.3327,0.0379
+107,70,No Finding,Atelectasis,0,0.5301,0.4925,0.0376
+360,46,Cardiomegaly,Pleural_Thickening,11,0.415,0.3774,0.0376
+379,30,Atelectasis|Consolidation|Pneumonia,Mass,9,0.4478,0.4103,0.0375
+49,46,No Finding,Nodule,10,0.4216,0.3841,0.0375
+244,46,Atelectasis|Effusion|Pneumothorax,Mass,9,0.4478,0.4103,0.0374
+335,35,Consolidation|Infiltration|Mass,Atelectasis,0,0.5299,0.4925,0.0374
+314,41,Consolidation,Nodule,10,0.4213,0.3841,0.0373
+63,35,Infiltration,Mass,9,0.4476,0.4103,0.0372
+160,70,Pneumothorax,Cardiomegaly,1,0.4824,0.4452,0.0372
+101,57,Infiltration,Effusion,4,0.5361,0.4991,0.037
+122,35,No Finding,Infiltration,8,0.4183,0.3815,0.0369
+267,35,Nodule,Fibrosis,6,0.461,0.4242,0.0369
+412,70,Effusion|Fibrosis|Pleural_Thickening,Infiltration,8,0.4183,0.3815,0.0369
+14,37,Nodule,Pneumonia,12,0.3694,0.3327,0.0368
+317,46,Atelectasis|Effusion|Infiltration|Pneumothorax,Emphysema,5,0.4303,0.3938,0.0365
+330,30,Infiltration|Pneumothorax,Pneumonia,12,0.3691,0.3327,0.0364
+302,30,Atelectasis|Effusion|Pneumothorax,Fibrosis,6,0.4606,0.4242,0.0364
+311,28,Mass,Emphysema,5,0.4301,0.3938,0.0363
+122,35,No Finding,Nodule,10,0.4204,0.3841,0.0363
+177,70,Pneumothorax,Nodule,10,0.4204,0.3841,0.0363
+281,70,Effusion|Nodule|Pleural_Thickening,Mass,9,0.4466,0.4103,0.0363
+358,35,Cardiomegaly|Effusion,Mass,9,0.4463,0.4103,0.036
+298,69,Fibrosis|Infiltration,Pleural_Thickening,11,0.4133,0.3774,0.0359
+115,28,No Finding,Pneumonia,12,0.3685,0.3327,0.0358
+74,35,No Finding,Nodule,10,0.4197,0.3841,0.0356
+366,57,Atelectasis|Cardiomegaly|Effusion|Mass,Edema,3,0.352,0.3164,0.0356
+267,35,Nodule,Pleural_Thickening,11,0.4129,0.3774,0.0355
+201,37,Cardiomegaly|Infiltration,Effusion,4,0.5345,0.4991,0.0354
+317,46,Atelectasis|Effusion|Infiltration|Pneumothorax,Mass,9,0.4453,0.4103,0.035
+235,41,Mass,Pneumothorax,13,0.6334,0.5985,0.0349
+369,57,Emphysema|Infiltration,Consolidation,2,0.4851,0.4503,0.0348
+204,37,Nodule,Pleural_Thickening,11,0.4122,0.3774,0.0348
+80,37,Infiltration,Mass,9,0.445,0.4103,0.0347
+278,46,Atelectasis|Consolidation,Hernia,7,0.2353,0.201,0.0343
+12,6,No Finding,Pneumonia,12,0.367,0.3327,0.0343
+203,57,Nodule,Pleural_Thickening,11,0.4117,0.3774,0.0343
+29,70,Effusion,Pneumonia,12,0.3669,0.3327,0.0342
+329,37,Atelectasis|Consolidation|Effusion|Infiltration,Pneumonia,12,0.3669,0.3327,0.0342
+29,70,Effusion,Nodule,10,0.418,0.3841,0.0339
+73,30,No Finding,Nodule,10,0.4173,0.3841,0.0333
+144,35,Atelectasis|Consolidation,Effusion,4,0.5324,0.4991,0.0333
+123,28,No Finding,Infiltration,8,0.4146,0.3815,0.0331
+396,35,Emphysema|Pneumothorax,Infiltration,8,0.4141,0.3815,0.0327
+287,80,Cardiomegaly|Effusion,Emphysema,5,0.4265,0.3938,0.0327
+190,35,Pneumothorax,Pneumonia,12,0.3653,0.3327,0.0326
+11,35,Nodule|Pneumothorax,Effusion,4,0.5317,0.4991,0.0326
+245,57,Emphysema|Mass|Pneumothorax,Pleural_Thickening,11,0.4099,0.3774,0.0325
+191,46,Atelectasis,Pleural_Thickening,11,0.4098,0.3774,0.0324
+337,35,Pleural_Thickening,Emphysema,5,0.4262,0.3938,0.0324
+150,41,Infiltration|Mass,Pneumonia,12,0.3651,0.3327,0.0324
+198,57,Atelectasis,Edema,3,0.3488,0.3164,0.0324
+354,57,Consolidation,Atelectasis,0,0.5248,0.4925,0.0323
+23,6,No Finding,Atelectasis,0,0.5248,0.4925,0.0323
+204,37,Nodule,Mass,9,0.4424,0.4103,0.0321
+141,28,Edema|Infiltration,Consolidation,2,0.4821,0.4503,0.0318
+347,41,Fibrosis|Nodule|Pleural_Thickening,Mass,9,0.4416,0.4103,0.0313
+397,35,Effusion|Mass|Pneumonia,Pleural_Thickening,11,0.4087,0.3774,0.0313
+327,69,Pneumothorax,Mass,9,0.4413,0.4103,0.031
+380,35,Effusion|Emphysema,Nodule,10,0.415,0.3841,0.0309
+284,69,Atelectasis|Pneumothorax,Mass,9,0.4412,0.4103,0.0309
+320,41,Nodule,Pneumonia,12,0.3633,0.3327,0.0307
+351,46,Atelectasis|Effusion|Pleural_Thickening,Consolidation,2,0.4807,0.4503,0.0305
+61,46,No Finding,Pneumonia,12,0.3631,0.3327,0.0304
+298,69,Fibrosis|Infiltration,Nodule,10,0.4144,0.3841,0.0303
+197,35,Consolidation,Emphysema,5,0.4239,0.3938,0.0301
+15,70,Infiltration|Nodule,Pleural_Thickening,11,0.4075,0.3774,0.0301
+89,46,No Finding,Hernia,7,0.231,0.201,0.03
+27,41,Atelectasis|Cardiomegaly|Effusion|Infiltration,Nodule,10,0.4141,0.3841,0.03
+239,28,Effusion|Infiltration|Nodule,Consolidation,2,0.4802,0.4503,0.0299
+81,57,No Finding,Mass,9,0.4401,0.4103,0.0298
+143,57,Atelectasis|Effusion,Emphysema,5,0.423,0.3938,0.0292
+333,35,Effusion|Emphysema,Hernia,7,0.23,0.201,0.029
+110,17,No Finding,Edema,3,0.3453,0.3164,0.0289
+172,69,Pneumonia,Cardiomegaly,1,0.474,0.4452,0.0288
+272,35,Pneumothorax,Atelectasis,0,0.5212,0.4925,0.0287
+168,69,Effusion|Nodule,Hernia,7,0.2296,0.201,0.0286
+66,46,Atelectasis|Infiltration,Mass,9,0.4389,0.4103,0.0286
+340,69,Emphysema,Pleural_Thickening,11,0.4058,0.3774,0.0284
+277,30,Mass|Pleural_Thickening|Pneumothorax,Pneumonia,12,0.361,0.3327,0.0283
+1,70,Emphysema|Mass,Consolidation,2,0.4786,0.4503,0.0283
+281,70,Effusion|Nodule|Pleural_Thickening,Fibrosis,6,0.4525,0.4242,0.0283
+30,70,Nodule,Pleural_Thickening,11,0.4056,0.3774,0.0282
+323,70,Atelectasis|Consolidation,Nodule,10,0.4121,0.3841,0.0281
+376,17,Effusion|Infiltration|Pleural_Thickening,Pneumothorax,13,0.6265,0.5985,0.028
+329,37,Atelectasis|Consolidation|Effusion|Infiltration,Fibrosis,6,0.4522,0.4242,0.028
+143,57,Atelectasis|Effusion,Infiltration,8,0.4091,0.3815,0.0277
+179,57,Atelectasis,Consolidation,2,0.4779,0.4503,0.0276
+302,30,Atelectasis|Effusion|Pneumothorax,Nodule,10,0.4115,0.3841,0.0274
+288,57,Edema|Effusion|Infiltration,Nodule,10,0.4114,0.3841,0.0273
+178,57,Infiltration,Pneumonia,12,0.3599,0.3327,0.0272
+296,37,Cardiomegaly,Infiltration,8,0.4083,0.3815,0.0269
+256,57,Pneumothorax,Fibrosis,6,0.4511,0.4242,0.0269
+335,35,Consolidation|Infiltration|Mass,Nodule,10,0.4107,0.3841,0.0267
+246,70,Mass|Pleural_Thickening,Emphysema,5,0.4205,0.3938,0.0267
+377,37,Edema,Mass,9,0.4368,0.4103,0.0265
+357,28,Atelectasis|Consolidation|Effusion|Mass,Edema,3,0.3428,0.3164,0.0264
+19,46,Consolidation,Nodule,10,0.4104,0.3841,0.0263
+181,37,Infiltration,Pleural_Thickening,11,0.4035,0.3774,0.0261
+418,46,Fibrosis,Infiltration,8,0.4073,0.3815,0.0259
+246,70,Mass|Pleural_Thickening,Fibrosis,6,0.4499,0.4242,0.0258
+126,57,No Finding,Fibrosis,6,0.4498,0.4242,0.0257
+226,30,Atelectasis|Mass,Infiltration,8,0.4069,0.3815,0.0254
+118,35,No Finding,Mass,9,0.4356,0.4103,0.0253
+111,57,No Finding,Infiltration,8,0.4066,0.3815,0.0252
+9,69,No Finding,Consolidation,2,0.4753,0.4503,0.0251
+299,80,Atelectasis|Consolidation|Effusion|Fibrosis,Pleural_Thickening,11,0.4021,0.3774,0.0247
+65,30,No Finding,Emphysema,5,0.4185,0.3938,0.0247
+161,57,Effusion,Atelectasis,0,0.5168,0.4925,0.0243
+307,57,Emphysema|Pneumothorax,Consolidation,2,0.4746,0.4503,0.0243
+165,30,Infiltration,Nodule,10,0.4084,0.3841,0.0243
+181,37,Infiltration,Fibrosis,6,0.4484,0.4242,0.0242
+254,37,Fibrosis|Infiltration,Emphysema,5,0.4178,0.3938,0.024
+321,41,Pleural_Thickening,Fibrosis,6,0.4477,0.4242,0.0236
+205,46,Pneumothorax,Nodule,10,0.4077,0.3841,0.0236
+133,70,No Finding,Pleural_Thickening,11,0.401,0.3774,0.0236
+368,37,Edema,Consolidation,2,0.4737,0.4503,0.0235
+186,35,Emphysema,Infiltration,8,0.4049,0.3815,0.0234
+355,28,Cardiomegaly|Effusion,Emphysema,5,0.4172,0.3938,0.0234
+406,30,Edema|Infiltration,Fibrosis,6,0.4475,0.4242,0.0233
+33,57,No Finding,Emphysema,5,0.4171,0.3938,0.0233
+322,69,Emphysema,Infiltration,8,0.4042,0.3815,0.0227
+191,46,Atelectasis,Edema,3,0.3388,0.3164,0.0224
+332,41,Atelectasis|Effusion|Emphysema,Cardiomegaly,1,0.4675,0.4452,0.0223
+195,80,Atelectasis|Cardiomegaly,Nodule,10,0.4062,0.3841,0.0221
+97,14,No Finding,Infiltration,8,0.4031,0.3815,0.0217
+267,35,Nodule,Pneumonia,12,0.3543,0.3327,0.0217
+7,57,No Finding,Cardiomegaly,1,0.4668,0.4452,0.0215
+74,35,No Finding,Pneumonia,12,0.354,0.3327,0.0213
+305,69,Mass,Nodule,10,0.4054,0.3841,0.0213
+396,35,Emphysema|Pneumothorax,Effusion,4,0.5204,0.4991,0.0213
+349,14,Consolidation|Infiltration,Mass,9,0.4315,0.4103,0.0212
+295,37,Mass,Pleural_Thickening,11,0.3986,0.3774,0.0212
+365,37,Edema,Infiltration,8,0.4027,0.3815,0.0212
+157,46,Emphysema,Consolidation,2,0.4714,0.4503,0.0211
+42,70,No Finding,Emphysema,5,0.4148,0.3938,0.021
+404,30,Edema,Consolidation,2,0.471,0.4503,0.0208
+266,41,Consolidation,Nodule,10,0.4048,0.3841,0.0207
+419,41,Effusion|Infiltration|Pneumonia,Mass,9,0.4309,0.4103,0.0206
+273,30,Cardiomegaly|Effusion,Fibrosis,6,0.4448,0.4242,0.0206
+365,37,Edema,Nodule,10,0.4046,0.3841,0.0205
+32,46,Effusion,Hernia,7,0.2212,0.201,0.0202
+427,57,Fibrosis,Nodule,10,0.4042,0.3841,0.0201
+248,41,Nodule,Emphysema,5,0.4136,0.3938,0.0198
+175,30,Atelectasis|Effusion|Mass,Nodule,10,0.4039,0.3841,0.0198
+132,41,Atelectasis|Effusion|Pneumothorax,Nodule,10,0.4038,0.3841,0.0197
+130,70,Effusion,Consolidation,2,0.4697,0.4503,0.0194
+207,17,Nodule,Fibrosis,6,0.4436,0.4242,0.0194
+43,37,No Finding,Infiltration,8,0.4008,0.3815,0.0193
+166,57,Effusion|Pneumothorax,Atelectasis,0,0.5117,0.4925,0.0192
+194,30,Effusion|Infiltration,Pneumonia,12,0.3518,0.3327,0.0191
+186,35,Emphysema,Consolidation,2,0.4691,0.4503,0.0189
+256,57,Pneumothorax,Atelectasis,0,0.5113,0.4925,0.0188
+191,46,Atelectasis,Mass,9,0.4289,0.4103,0.0185
+206,37,Consolidation,Pleural_Thickening,11,0.3958,0.3774,0.0184
+143,57,Atelectasis|Effusion,Pneumonia,12,0.3511,0.3327,0.0184
+59,41,No Finding,Fibrosis,6,0.4424,0.4242,0.0182
+157,46,Emphysema,Fibrosis,6,0.4424,0.4242,0.0182
+146,46,Effusion,Mass,9,0.4283,0.4103,0.018
+356,46,Emphysema|Infiltration|Mass|Pneumothorax,Nodule,10,0.402,0.3841,0.018
+294,70,Consolidation|Effusion|Infiltration|Nodule,Pneumothorax,13,0.6164,0.5985,0.0179
+258,46,Atelectasis|Consolidation|Effusion,Pleural_Thickening,11,0.3952,0.3774,0.0178
+320,41,Nodule,Emphysema,5,0.4116,0.3938,0.0178
+387,17,Emphysema|Pneumothorax,Infiltration,8,0.3989,0.3815,0.0175
+148,41,Effusion|Mass,Consolidation,2,0.4676,0.4503,0.0174
+66,46,Atelectasis|Infiltration,Cardiomegaly,1,0.4626,0.4452,0.0174
+88,41,Atelectasis|Consolidation|Mass|Pneumothorax,Pneumonia,12,0.35,0.3327,0.0173
+34,46,No Finding,Cardiomegaly,1,0.4625,0.4452,0.0173
+339,37,Mass|Nodule|Pleural_Thickening,Consolidation,2,0.4674,0.4503,0.0172
+58,28,Atelectasis|Effusion|Emphysema,Nodule,10,0.4012,0.3841,0.0171
+372,57,Effusion|Fibrosis,Nodule,10,0.4012,0.3841,0.0171
+21,57,No Finding,Pneumonia,12,0.3498,0.3327,0.0171
+37,30,No Finding,Pleural_Thickening,11,0.3941,0.3774,0.0167
+402,41,Atelectasis|Emphysema,Pleural_Thickening,11,0.3938,0.3774,0.0164
+99,41,Pleural_Thickening|Pneumothorax,Pneumonia,12,0.3487,0.3327,0.016
+29,70,Effusion,Fibrosis,6,0.4399,0.4242,0.0158
+402,41,Atelectasis|Emphysema,Consolidation,2,0.4661,0.4503,0.0158
+57,30,No Finding,Cardiomegaly,1,0.4609,0.4452,0.0157
+409,69,Emphysema,Pneumonia,12,0.3483,0.3327,0.0156
+329,37,Atelectasis|Consolidation|Effusion|Infiltration,Pleural_Thickening,11,0.393,0.3774,0.0156
+70,57,No Finding,Atelectasis,0,0.5076,0.4925,0.0152
+235,41,Mass,Fibrosis,6,0.4392,0.4242,0.015
+222,30,Pneumothorax,Infiltration,8,0.3964,0.3815,0.0149
+96,57,No Finding,Pleural_Thickening,11,0.3921,0.3774,0.0147
+272,35,Pneumothorax,Consolidation,2,0.4648,0.4503,0.0146
+169,41,Effusion,Fibrosis,6,0.4387,0.4242,0.0145
+206,37,Consolidation,Edema,3,0.3309,0.3164,0.0145
+304,30,Effusion|Pneumonia,Nodule,10,0.3984,0.3841,0.0143
+192,46,Atelectasis,Nodule,10,0.3984,0.3841,0.0143
+151,70,Effusion,Infiltration,8,0.3954,0.3815,0.0139
+156,70,Atelectasis|Cardiomegaly|Effusion|Fibrosis|Infiltration,Nodule,10,0.3979,0.3841,0.0139
+172,69,Pneumonia,Mass,9,0.4233,0.4103,0.013
+289,35,Nodule,Atelectasis,0,0.5053,0.4925,0.0129
+29,70,Effusion,Consolidation,2,0.4626,0.4503,0.0123
+291,46,Emphysema|Infiltration|Pneumothorax,Pleural_Thickening,11,0.3896,0.3774,0.0122
+56,46,No Finding,Pneumonia,12,0.3449,0.3327,0.0122
+3,28,No Finding,Pneumonia,12,0.3449,0.3327,0.0122
+271,69,Consolidation|Effusion|Infiltration,Mass,9,0.4224,0.4103,0.0121
+433,80,Hernia,Mass,9,0.4225,0.4103,0.0121
+31,37,Pneumothorax,Nodule,10,0.396,0.3841,0.012
+206,37,Consolidation,Pneumonia,12,0.3441,0.3327,0.0114
+383,28,Edema,Consolidation,2,0.4616,0.4503,0.0113
+273,30,Cardiomegaly|Effusion,Edema,3,0.3276,0.3164,0.0112
+402,41,Atelectasis|Emphysema,Nodule,10,0.3947,0.3841,0.0107
+380,35,Effusion|Emphysema,Atelectasis,0,0.503,0.4925,0.0105
+121,57,No Finding,Edema,3,0.3268,0.3164,0.0104
+382,57,Edema|Infiltration,Effusion,4,0.5094,0.4991,0.0103
+369,57,Emphysema|Infiltration,Nodule,10,0.3941,0.3841,0.01
+284,69,Atelectasis|Pneumothorax,Effusion,4,0.5089,0.4991,0.0098
+224,35,Effusion|Emphysema,Pleural_Thickening,11,0.3871,0.3774,0.0098
+83,70,No Finding,Cardiomegaly,1,0.4548,0.4452,0.0096
+257,57,Pneumothorax,Cardiomegaly,1,0.4548,0.4452,0.0096
+418,46,Fibrosis,Pleural_Thickening,11,0.3869,0.3774,0.0095
+385,35,Cardiomegaly,Atelectasis,0,0.5019,0.4925,0.0094
+206,37,Consolidation,Mass,9,0.4197,0.4103,0.0094
+195,80,Atelectasis|Cardiomegaly,Pleural_Thickening,11,0.3867,0.3774,0.0093
+223,70,Pneumothorax,Fibrosis,6,0.4333,0.4242,0.0092
+62,6,No Finding,Effusion,4,0.5082,0.4991,0.0091
+205,46,Pneumothorax,Infiltration,8,0.3904,0.3815,0.009
+60,35,Atelectasis|Infiltration,Consolidation,2,0.4592,0.4503,0.009
+251,28,Pneumonia,Mass,9,0.4193,0.4103,0.0089
+394,70,Fibrosis,Mass,9,0.4188,0.4103,0.0085
+143,57,Atelectasis|Effusion,Nodule,10,0.3924,0.3841,0.0083
+38,57,Cardiomegaly,Pleural_Thickening,11,0.3857,0.3774,0.0083
+300,28,Infiltration|Mass,Nodule,10,0.3923,0.3841,0.0083
+240,80,Atelectasis|Consolidation|Effusion,Edema,3,0.3246,0.3164,0.0082
+348,46,Pleural_Thickening,Pneumonia,12,0.3409,0.3327,0.0082
+236,28,Atelectasis|Emphysema,Consolidation,2,0.4584,0.4503,0.0081
+391,17,Cardiomegaly,Effusion,4,0.5071,0.4991,0.008
+106,57,No Finding,Pneumonia,12,0.3406,0.3327,0.008
+331,57,Consolidation|Effusion,Infiltration,8,0.3895,0.3815,0.008
+222,30,Pneumothorax,Nodule,10,0.3919,0.3841,0.0078
+254,37,Fibrosis|Infiltration,Nodule,10,0.3918,0.3841,0.0078
+224,35,Effusion|Emphysema,Edema,3,0.3242,0.3164,0.0078
+186,35,Emphysema,Atelectasis,0,0.5,0.4925,0.0075
+190,35,Pneumothorax,Fibrosis,6,0.4316,0.4242,0.0075
+111,57,No Finding,Pleural_Thickening,11,0.3849,0.3774,0.0075
+314,41,Consolidation,Edema,3,0.3236,0.3164,0.0072
+345,14,Consolidation,Infiltration,8,0.3887,0.3815,0.0072
+329,37,Atelectasis|Consolidation|Effusion|Infiltration,Pneumothorax,13,0.6056,0.5985,0.007
+287,80,Cardiomegaly|Effusion,Pneumonia,12,0.3395,0.3327,0.0069
+44,57,Infiltration|Nodule,Pneumonia,12,0.3394,0.3327,0.0068
+125,46,No Finding,Pneumonia,12,0.3394,0.3327,0.0067
+36,35,Pneumothorax,Mass,9,0.4169,0.4103,0.0066
+358,35,Cardiomegaly|Effusion,Nodule,10,0.3907,0.3841,0.0066
+344,35,Emphysema|Infiltration,Pleural_Thickening,11,0.3839,0.3774,0.0065
+369,57,Emphysema|Infiltration,Cardiomegaly,1,0.4516,0.4452,0.0064
+37,30,No Finding,Atelectasis,0,0.4987,0.4925,0.0062
+56,46,No Finding,Emphysema,5,0.3999,0.3938,0.0061
+358,35,Cardiomegaly|Effusion,Hernia,7,0.207,0.201,0.006
+254,37,Fibrosis|Infiltration,Atelectasis,0,0.4984,0.4925,0.0059
+192,46,Atelectasis,Pneumonia,12,0.3382,0.3327,0.0055
+33,57,No Finding,Infiltration,8,0.3869,0.3815,0.0055
+112,57,Atelectasis|Nodule,Edema,3,0.3218,0.3164,0.0054
+198,57,Atelectasis,Infiltration,8,0.3869,0.3815,0.0054
+169,41,Effusion,Emphysema,5,0.3991,0.3938,0.0053
+403,30,Atelectasis|Consolidation|Emphysema,Fibrosis,6,0.4293,0.4242,0.0051
+263,46,Cardiomegaly,Consolidation,2,0.4552,0.4503,0.0049
+198,57,Atelectasis,Nodule,10,0.389,0.3841,0.0049
+87,41,Atelectasis|Effusion,Pleural_Thickening,11,0.3823,0.3774,0.0049
+239,28,Effusion|Infiltration|Nodule,Pleural_Thickening,11,0.3819,0.3774,0.0046
+169,41,Effusion,Infiltration,8,0.3859,0.3815,0.0045
+90,46,Atelectasis|Infiltration,Nodule,10,0.3886,0.3841,0.0045
+230,41,Consolidation|Mass,Pneumonia,12,0.3371,0.3327,0.0044
+392,28,Pleural_Thickening,Infiltration,8,0.3858,0.3815,0.0044
+207,17,Nodule,Edema,3,0.3207,0.3164,0.0043
+58,28,Atelectasis|Effusion|Emphysema,Pneumonia,12,0.3369,0.3327,0.0042
+9,69,No Finding,Edema,3,0.3204,0.3164,0.004
+82,37,No Finding,Edema,3,0.3204,0.3164,0.004
+144,35,Atelectasis|Consolidation,Mass,9,0.4138,0.4103,0.0035
+359,28,Edema,Atelectasis,0,0.496,0.4925,0.0035
+332,41,Atelectasis|Effusion|Emphysema,Pneumothorax,13,0.602,0.5985,0.0034
+278,46,Atelectasis|Consolidation,Fibrosis,6,0.4275,0.4242,0.0033
+199,41,Cardiomegaly,Pneumonia,12,0.3358,0.3327,0.0031
+94,57,Atelectasis|Mass,Edema,3,0.3194,0.3164,0.003
+60,35,Atelectasis|Infiltration,Effusion,4,0.5017,0.4991,0.0026
+218,70,Atelectasis,Pneumonia,12,0.3353,0.3327,0.0026
+192,46,Atelectasis,Fibrosis,6,0.4266,0.4242,0.0024
+205,46,Pneumothorax,Emphysema,5,0.3961,0.3938,0.0023
+293,46,Mass,Nodule,10,0.3863,0.3841,0.0022
+105,37,Edema|Mass,Pneumonia,12,0.3346,0.3327,0.0019
+430,14,Infiltration|Pneumonia,Consolidation,2,0.4522,0.4503,0.0019
+26,80,No Finding,Emphysema,5,0.3956,0.3938,0.0018
+235,41,Mass,Pneumonia,12,0.3345,0.3327,0.0018
+77,57,Infiltration,Pleural_Thickening,11,0.3792,0.3774,0.0018
+313,57,Cardiomegaly|Edema|Effusion,Atelectasis,0,0.4941,0.4925,0.0017
+269,57,Mass,Infiltration,8,0.3828,0.3815,0.0014
+282,57,Pneumothorax,Pneumonia,12,0.334,0.3327,0.0013
+265,57,Mass,Hernia,7,0.2021,0.201,0.0011
+97,14,No Finding,Atelectasis,0,0.4935,0.4925,0.001
+67,69,Emphysema|Pneumothorax,Mass,9,0.4114,0.4103,0.001
+6,46,Cardiomegaly|Edema|Effusion,Pneumonia,12,0.3336,0.3327,0.001
+339,37,Mass|Nodule|Pleural_Thickening,Atelectasis,0,0.4934,0.4925,0.0009
+0,70,No Finding,Pneumonia,12,0.3335,0.3327,0.0008
+282,57,Pneumothorax,Consolidation,2,0.451,0.4503,0.0007
+38,57,Cardiomegaly,Nodule,10,0.3847,0.3841,0.0006
+378,69,Atelectasis|Pneumonia,Hernia,7,0.2015,0.201,0.0005
+220,35,Fibrosis,Nodule,10,0.3843,0.3841,0.0003
+145,69,Infiltration,Nodule,10,0.3843,0.3841,0.0002
