@@ -1,5 +1,3 @@
-# Chest-XRay-Pathology-Detection-XAI
-Multi-Label Chest X-Ray Pathology Detection on NIH ChestX-ray14 using DenseNet121 with Grad-CAM &amp; SHAP Explainability
 # Chest X-Ray Pathology Detection with Explainable AI (XAI)
 
 Multi-label thoracic pathology classification across 14 diseases on the **NIH ChestX-ray14** dataset using a fine-tuned **DenseNet121** backbone, **patient-isolated splitting**, **Youden's $J$ threshold calibration**, and dual **Grad-CAM + SHAP** visual explainability.
@@ -11,31 +9,29 @@ Multi-label thoracic pathology classification across 14 diseases on the **NIH Ch
 4. **Model & Imbalance Loss:** ImageNet-pretrained `DenseNet121` trained with inverse-frequency `BCEWithLogitsLoss(pos_weight)` and FP16 mixed precision.
 5. **Explainable AI & Error Auditing:** Spatial localization via **Grad-CAM**, pixel-level attribution via **SHAP (`PartitionExplainer`)**, and high-confidence false-positive shortcut auditing.
 
-## Key Results (Held-Out Patient-Isolated Test Set)
-* **Macro Test ROC-AUC:** `[Paste your Mean Test AUC from Cell 16]`
-* **Macro Test F1-Score:** `[Paste your Mean Test F1 from Cell 16]`
-* **Macro Test Recall:** `[Paste your Mean Test Recall from Cell 16]`
-
-Full per-pathology metrics are available in [`results/test_metrics.csv`](results/test_metrics.csv) and [`results/literature_comparison.csv`](results/literature_comparison.csv).
+## Results & Evaluation Files
+Full per-pathology test metrics, false-positive logs, and literature comparisons are included directly in this repository:
+* [`test_metrics.csv`](test_metrics.csv) — Per-pathology AUC, F1-Score, Recall, Precision, and Youden's $J$ thresholds.
+* [`literature_comparison.csv`](literature_comparison.csv) — Benchmark comparison against Wang et al. (2017) and CheXNet (2017).
+* [`false_positives_audit.csv`](false_positives_audit.csv) — High-confidence false-positive error log.
+* [`Chest_XRay_Pathology_Detection_XAI.ipynb`](Chest_XRay_Pathology_Detection_XAI.ipynb) — Complete end-to-end Google Colab notebook.
 
 ## Visual Results
 
 ### Training Convergence & 14-Pathology ROC Curves
-![ROC and Training Curves](figures/roc_and_training_curves.png)
+![ROC and Training Curves](roc_and_training_curves.png)
+
+### Dataset Split & Per-Class F1 / Recall Summary
+![Dataset and F1 Summary](dataset_and_f1_summary.png)
 
 ### Grad-CAM Anatomical Localization
-![Grad-CAM Explanations](figures/gradcam_explanations.png)
+![Grad-CAM Explanations](gradcam_explanations.png)
 
 ### SHAP Pixel-Level Attribution
-![SHAP Explanations](figures/shap_explanations.png)
+![SHAP Explanations](shap_explanations.png)
 
 ### False-Positive Shortcut Audit
-![False Positive Grad-CAM](figures/false_positive_gradcam.png)
+![False Positive Grad-CAM](false_positive_gradcam.png)
 
 ### Published Baseline Comparison (Wang et al. 2017 & CheXNet)
-![Baseline Comparison](figures/baseline_comparison_chart.png)
-
-## Repository Structure
-* `notebooks/Chest_XRay_Pathology_Detection_XAI.ipynb` — Complete end-to-end Google Colab implementation.
-* `results/` — Per-class test metrics, false-positive audit logs, and published benchmark comparisons.
-* `figures/` — High-resolution (300 DPI) evaluation and XAI plots.
+![Baseline Comparison](baseline_comparison_chart.png)
