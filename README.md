@@ -1,6 +1,6 @@
 # Chest X-Ray Pathology Detection with Explainable AI (XAI)
 
-Multi-label thoracic pathology classification across 14 diseases on the **NIH ChestX-ray14** dataset using a fine-tuned **DenseNet121** backbone, **patient-isolated splitting**, **Youden's $J$ threshold calibration**, and dual **Grad-CAM + SHAP** visual explainability.
+Multi-label thoracic pathology classification across 14 diseases on the **NIH ChestX-ray14** dataset using a fine-tuned **DenseNet121** backbone, **patient-isolated splitting**, **Youden's $J$ threshold calibration**, dual **Grad-CAM + SHAP** visual explainability, and an interactive **RadXAI** clinical triage web prototype (`app.py`).
 
 ## Pipeline Overview
 1. **Streaming Subset Curation:** Quota-balanced sampling from NIH ChestX-ray14 (`250` max per pathology, `500` max `No Finding`) resized to `224x224`.
@@ -8,30 +8,26 @@ Multi-label thoracic pathology classification across 14 diseases on the **NIH Ch
 3. **Patient-Isolated Splits:** Two-stage `GroupShuffleSplit` on `patient_id` (70% Train / 15% Val / 15% Test) with zero patient overlap.
 4. **Model & Imbalance Loss:** ImageNet-pretrained `DenseNet121` trained with inverse-frequency `BCEWithLogitsLoss(pos_weight)` and FP16 mixed precision.
 5. **Explainable AI & Error Auditing:** Spatial localization via **Grad-CAM**, pixel-level attribution via **SHAP (`PartitionExplainer`)**, and high-confidence false-positive shortcut auditing.
+6. **Interactive Clinical Triage Prototype (`RadXAI`):** Real-time Streamlit dashboard (`app.py`) supporting frontal X-ray uploads, live Youden's $J$ / custom threshold switching, 3-panel Grad-CAM inspection, and CSV triage report export.
 
-## Results & Evaluation Files
-Full per-pathology test metrics, false-positive logs, and literature comparisons are included directly in this repository:
-* [`test_metrics.csv`](test_metrics.csv) — Per-pathology AUC, F1-Score, Recall, Precision, and Youden's $J$ thresholds.
-* [`literature_comparison.csv`](literature_comparison.csv) — Benchmark comparison against Wang et al. (2017) and CheXNet (2017).
-* [`false_positives_audit.csv`](false_positives_audit.csv) — High-confidence false-positive error log.
-* [`Chest_XRay_Pathology_Detection_XAI.ipynb`](Chest_XRay_Pathology_Detection_XAI.ipynb) — Complete end-to-end Google Colab notebook.
+## Interactive Clinical Triage Prototype (`RadXAI`)
 
-## Visual Results
+| Triage KPI Overview & Controls | 3-Panel Grad-CAM Anatomical Localization |
+| :---: | :---: |
+| ![RadXAI Triage Overview](radxai_overview.jpg) | ![RadXAI Grad-CAM Inspector](radxai_gradcam.jpg) |
 
-### Training Convergence & 14-Pathology ROC Curves
-![ROC and Training Curves](roc_and_training_curves.png)
+### Key Prototype Features (`app.py`)
+- **Decision Threshold Mode:** Switch live between *Youden's J Calibrated* ($\tau^*_c$), *Standard 0.50 Cutoff*, and a *Custom Global Cutoff* slider (`0.05`–`0.95`) to inspect sensitivity vs. false-alarm trade-offs.
+- **3-Panel Grad-CAM Visual Inspector:** Displays the *Original Standardized Radiograph (`224×224`)*, *Raw Attention Map*, and *Anatomical Overlay* side-by-side with `JET`, `TURBO`, and colorblind-safe `VIRIDIS` palettes, opacity blending slider (`0.10`–`0.80`), and pathology-specific clinical guidance notes.
+- **Triage KPIs, Risk Chart & CSV Export:** Displays *Flagged Findings*, *Top Suspect Pathology*, *Top Confidence %*, *Triage Status*, a 14-class probability-vs-threshold bar chart, and one-click downloadable patient triage CSV reports.
 
-### Dataset Split & Per-Class F1 / Recall Summary
-![Dataset and F1 Summary](dataset_and_f1_summary.png)
+### Run the Prototype Locally
+```bash
+git clone [https://github.com/tharanipothineni-tech/Chest-XRay-Pathology-Detection-XAI.git](https://github.com/tharanipothineni-tech/Chest-XRay-Pathology-Detection-XAI.git)
+cd Chest-XRay-Pathology-Detection-XAI
 
-### Grad-CAM Anatomical Localization
-![Grad-CAM Explanations](gradcam_explanations.png)
+python3 -m venv venv
+source venv/bin/activate        # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
 
-### SHAP Pixel-Level Attribution
-![SHAP Explanations](shap_explanations.png)
-
-### False-Positive Shortcut Audit
-![False Positive Grad-CAM](false_positive_gradcam.png)
-
-### Published Baseline Comparison (Wang et al. 2017 & CheXNet)
-![Baseline Comparison](baseline_comparison_chart.png)
+python3 -m streamlit run app.py
